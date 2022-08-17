@@ -2,9 +2,7 @@
 {"dg-publish":true,"permalink":"/me/modding/game-modding-hub/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-# Game Modding Hub
 #hub #cs #modding 
-
 
 ### General Concepts:
 * [[🌟 Me/Modding/Hooking|Hooking]]
