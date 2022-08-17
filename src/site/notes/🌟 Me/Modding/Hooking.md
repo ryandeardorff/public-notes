@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/me/modding/hooking/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-# Hooking
 #cs #modding 
 > [[🌟 Me/Modding/Game Modding Hub|Game Modding Hub]], [[DLL Injection|DLL Injection]]
 
