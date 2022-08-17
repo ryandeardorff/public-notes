@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/me/modding/addresses-all-wonky-between-software-try-rebasing-to-0x0/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-# Rebasing to 0x0
 #cs #modding 
 
 Rebasing a program is where to change the base address (the one all the other addresses are based on) to something else. Most disassemblers and other analysis tools should have this feature (at least from what I've seen).
