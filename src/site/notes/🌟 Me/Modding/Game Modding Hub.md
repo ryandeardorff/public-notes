@@ -12,7 +12,7 @@
 * [[🌟 Me/Modding/Addresses all wonky between software-- Try rebasing to 0x0|Addresses all wonky between software-- Try rebasing to 0x0]]
 
 ### Game Specific:
-* [[🌟 Me/Spiderman Remastered/Spiderman Remastered Hub|Spiderman Remastered Hub]]
+* [[🌟 Me/Modding/Spiderman Remastered/Spiderman Remastered Hub|Spiderman Remastered Hub]]
 
 ### 🧠 Rust Knowledge:
 - [[🌟 Me/Rust FFI -- C calling convention code for dlls in rust|Rust FFI -- C calling convention code for dlls in rust]]
