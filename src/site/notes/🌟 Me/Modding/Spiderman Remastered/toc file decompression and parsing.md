@@ -151,7 +151,9 @@ toc and dag files use zlib compression, which is really easy to decompress.
 > TOCFILE toc @0x00;
 > ```
 
-```ad-example
+```ad-example 
+title:Basic Parsing Script
+collapse:true
 ```python
 from __future__ import annotations
 from io import IOBase
