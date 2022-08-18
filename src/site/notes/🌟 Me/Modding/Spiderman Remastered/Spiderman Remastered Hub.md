@@ -9,7 +9,3 @@
 Notes:
 * [[🌟 Me/Modding/Spiderman Remastered/SMR - Notable Binary Exe Locations|SMR - Notable Binary Exe Locations]]
 * [[🌟 Me/Modding/Spiderman Remastered/toc file decompression and parsing|toc file decompression and parsing]]
-
-Additional Resources:
-- [[822192Fredriksson_Andreas_Loading_Imperfect_Data.pdf]]
-- [[Ruskin_Elan_SunsetOverdriveStreaming.pdf]]
