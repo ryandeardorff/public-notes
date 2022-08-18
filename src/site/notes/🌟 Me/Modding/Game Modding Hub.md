@@ -7,6 +7,7 @@
 ### General Concepts:
 * [[🌟 Me/Modding/Hooking|Hooking]]
 	* Crazy good article about hooking: [Kyle Halladay - X64 Function Hooking by Example](http://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html)
+* [[🌟 Me/Modding/DLL Injection|DLL Injection]]
 
 ### Disassemblers, Debuggers, and Decompilers, oh my!
 * [[🌟 Me/Modding/Addresses all wonky between software-- Try rebasing to 0x0|Addresses all wonky between software-- Try rebasing to 0x0]]
