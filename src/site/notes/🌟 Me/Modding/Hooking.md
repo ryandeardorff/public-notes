@@ -3,9 +3,9 @@
 ---
 
 #cs #modding 
-> [[🌟 Me/Modding/Game Modding Hub|Game Modding Hub]], [[DLL Injection|DLL Injection]]
+> [[🌟 Me/Modding/Game Modding Hub|Game Modding Hub]], [[🌟 Me/Modding/DLL Injection|DLL Injection]]
 
-**tldr:** You replace a function in an executable with a call to someplace else and rebuild/replace the functionality there. You can do this in memory while the application is running, and it can work in conjunction with [[DLL Injection|DLL Injection]] to non-destructively change the behavior of a program at runtime.
+**tldr:** You replace a function in an executable with a call to someplace else and rebuild/replace the functionality there. You can do this in memory while the application is running, and it can work in conjunction with [[🌟 Me/Modding/DLL Injection|DLL Injection]] to non-destructively change the behavior of a program at runtime.
 Great article on the subject: [Kyle Halladay - X64 Function Hooking by Example](http://kylehalladay.com/blog/2020/11/13/Hooking-By-Example.html)
 
 ### What is it?
