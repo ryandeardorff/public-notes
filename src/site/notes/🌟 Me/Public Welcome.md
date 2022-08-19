@@ -5,6 +5,7 @@
 # Welcome!
 ### Table of Contents
 - [[🌟 Me/Modding/Game Modding Hub|Game Modding Hub]]
+- [[🌟 Me/Rust Hub|Rust Hub]]
 
 ### Intro
 #### About:
