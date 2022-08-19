@@ -130,7 +130,7 @@ WriteProcessMemory(processHandle, remoteBufferForLibraryPath,
 ```
 
 #### Creating the new thread to load the DLL
-We'll use [GetProceAddress](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) and [GetModuleHandleW](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandlew) to get the real address of `LoadLibraryW` in `Kernel32.dll`
+We'll use [GetProcAddress](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getprocaddress) and [GetModuleHandleW](https://docs.microsoft.com/en-us/windows/win32/api/libloaderapi/nf-libloaderapi-getmodulehandlew) to get the real address of `LoadLibraryW` in `Kernel32.dll`
 
 Like [so](https://www.apriorit.com/dev-blog/679-windows-dll-injection-for-api-hooks):
 ```cpp
