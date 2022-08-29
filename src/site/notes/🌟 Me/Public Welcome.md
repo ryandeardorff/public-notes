@@ -6,6 +6,8 @@
 ### Table of Contents
 - [[🌟 Me/Modding/Game Modding Hub|Game Modding Hub]]
 - [[🌟 Me/Rust Hub|Rust Hub]]
+- Courses:
+	- [[🏫 School/DigiPen S2/MAT140/MAT140 Hub|MAT140 Hub]]
 
 ### Intro
 #### About:
