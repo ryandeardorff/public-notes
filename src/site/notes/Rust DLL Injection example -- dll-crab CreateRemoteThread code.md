@@ -3,7 +3,7 @@
 ---
 
 #cs #rust #modding 
-> [[🌟 Me/Modding/DLL Injection|DLL Injection]]
+> [[DLL Injection|DLL Injection]]
 
 This is a section of the source from: [dll-crab (github)](https://github.com/aiocat/dll-crab), in particular: [mod.rs from dll-crab (github)](https://github.com/aiocat/dll-crab/blob/67aa15583112c3fe2919ebc9803393c8318eff6f/src/injector/mod.rs)
 ```rust
