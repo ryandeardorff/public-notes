@@ -19,7 +19,12 @@ $$
 
 
 [[The Limit|The two sided limit]] 
-$$\lim_{x\rightarrow a} f(x)$$ exists only when both one-sided limits agree:
+$$
+\lim_{x\rightarrow a} f(x)
+$$ 
+
+exists only when both one-sided limits agree:
+
 $$
 \lim_{x\rightarrow a}f(x) = \lim_{x\rightarrow a^{+}} f(x) = \lim_{x\rightarrow a^{-}} f(x)
 $$
