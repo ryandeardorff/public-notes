@@ -25,6 +25,8 @@ $$
 \end{align}
 $$
 
+^7b52ed
+
 ---
 ##### Getting There:
 $$
