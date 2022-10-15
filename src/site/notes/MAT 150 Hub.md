@@ -134,6 +134,93 @@
 		* [[L'Hôpital's Rule|L'Hôpital's Rule]]
 		* [[Using L'Hôpital's Rule|Using L'Hôpital's Rule]]
 		* [[Functions to infinity with L'Hôpital's Rule|Functions to infinity with L'Hôpital's Rule]]
+* Day 12 (9/29/22): 
+	* Review: [[Indeterminates|Indeterminates]]
+	* Review: [[L'Hôpital's Rule|L'Hôpital's Rule]]
+	* Review: [[Functions to infinity with L'Hôpital's Rule|Functions to infinity with L'Hôpital's Rule]]
+	* [[Functions to 0 and Infinity with l'Hôpital's Rule|Functions to 0 and Infinity with l'Hôpital's Rule]]
+	* [[Natural Log with l'Hôpital's Rule|Natural Log with l'Hôpital's Rule]]
+	* [[Limits with Exponentials and Indeterminates|Limits with Exponentials and Indeterminates]]
+* Day 13 (10/3/22):
+	* Class Info:
+		* Midterm is now next week
+		* Review Day Monday
+	* [[Series|Series]]
+		* [[Summations|Summations]]
+		* [[Infinite Series|Infinite Series]]
+	* [[Geometric Series|Geometric Series]]
+		* [[Alternating Series|Alternating Series]]
+		* [[Solving Infinite Geometric Series with Limits (Converging and Diverging Series)|Solving Infinite Geometric Series with Limits (Converging and Diverging Series)]]
+		* [[When r is one in an infinite geometric series|When r is one in an infinite geometric series]]
+	* [[Harmonic Series|Harmonic Series]]
+	* [[Basel Problem|Basel Problem]]
+	* [[Infinite Alternating Series and Convergence|Infinite Alternating Series and Convergence]]
+	* [[Simple Convergence Tests|Simple Convergence Tests]]
+	* [[Power Test for Convergence|Power Test for Convergence]]
+	* [[Ratio Test for Convergence|Ratio Test for Convergence]]
+* Day 14 (10/5/22):
+	* Review: [[Ratio Test for Convergence|Ratio Test for Convergence]]
+	* [[Ratio Test Examples|Ratio Test Examples]]
+	* [[Factorials|Factorials]]
+	* [[Ratio Test with Factorials|Ratio Test with Factorials]]
+	* [[Taylor Series|Taylor Series]]
+	* [[Taylor Series Around a Point Example|Taylor Series Around a Point Example]]
+	* [[Radius of Convergence|Radius of Convergence]]
+	* [[Witch of Agnesi|Witch of Agnesi]]
+	* [[Taylor Series and Witch of Agnesi|Taylor Series and Witch of Agnesi]]
+	* [[Always Converging with e to the x|Always Converging with e to the x]]
+* Day 15 (10/10/22):
+	* Midterm Review:
+		* [[Understanding the Second Derivative using Infinitesimals|Understanding the Second Derivative using Infinitesimals]] -- not much on the test for that-- they're a means to an end
+		* Derivatives:
+			* [[Linear Rules for Derivatives|Linear Rules for Derivatives]]
+			* [[The Product Rule for Derivatives|The Product Rule for Derivatives]]
+			* [[Quotient Rule for Derivatives|Quotient Rule for Derivatives]]
+				* [[The Exponential Denominator (Quotient++) Rule for Derivatives|The Exponential Denominator (Quotient++) Rule for Derivatives]] -- not needed on test, just helpful.
+			* [[The Chain Rule for Derivatives|The Chain Rule for Derivatives]]
+			* [[Differentials|Differentials]]
+			* [[The Derivative#^b16edf|The Derivative#^b16edf]]
+			* You should be able to write general rules-- like "let $f(x)$ be a function, find $\frac{d}{dx}(xf)$"
+			* [[Implicit Differentiation|Implicit Differentiation]]
+			* [[Exponentials and Derivatives (derivative of e to the x)|Exponentials and Derivatives (derivative of e to the x)]]
+			* [[Exponentials and Derivatives (other bases)|Exponentials and Derivatives (other bases)]]
+			* [[Derivative of variable exponent and base|Derivative of variable exponent and base]]
+			* [[Logarithms|Logarithms]]
+			* [[Derivative of the Natural Logarithm|Derivative of the Natural Logarithm]]
+			* [[Logarithms with Different Bases|Logarithms with Different Bases]]
+			* Trig Functions:
+				* [[Tangent, Secant, Cotangent, and Cosecant|Tangent, Secant, Cotangent, and Cosecant]]
+				* [[Derivative of Sine|Derivative of Sine]]
+				* [[Derivative of Cosine|Derivative of Cosine]]
+				* Shortcuts that are nice:
+					* [[Derivative of Tangent|Derivative of Tangent]]
+					* [[Derivative of Cotangent|Derivative of Cotangent]]
+					* [[Derivative of Secant|Derivative of Secant]]
+					* [[Derivative of Cosecant|Derivative of Cosecant]]
+				* Will not ask about: [[Hyperbolic Trigonometric Functions|Hyperbolic Trigonometric Functions]]
+				* **Will** ask about: [[Derivatives and Inverse Trig Functions|Derivatives and Inverse Trig Functions]] -- at least know the theory to get there.
+		* [[Estimations With Derivatives|Estimations With Derivatives]]
+		* [[Tangent Line|Tangent Line]]
+		* [[Second Order Approximation|Second Order Approximation]]
+			* [[Understanding the Second Derivative using Infinitesimals|Understanding the Second Derivative using Infinitesimals]]
+		* [[Optimization|Optimization]]
+			* [[Critical Points|Critical Points]]
+			* [[Finding Critical Points|Finding Critical Points]]
+			* [[Critical Points-- Remember the negative power!|Critical Points-- Remember the negative power!]]
+			* [[The Second Derivative Test|The Second Derivative Test]]
+			* [[Local Extrema|Local Extrema]]
+			* [[Point of inflection (zeros of the second derivative)|Point of inflection (zeros of the second derivative)]]
+			* [[Global Extrema|Global Extrema]]
+			* [[Solving the Problems with Global Maximum and Minimum|Solving the Problems with Global Maximum and Minimum]]
+		* [[Limits|Limits]]
+			* [[Trending Values in Limits|Trending Values in Limits]]
+			* [[Indeterminates|Indeterminates]]
+			* [[L'Hôpital's Rule|L'Hôpital's Rule]]
+			* [[Using L'Hôpital's Rule|Using L'Hôpital's Rule]]
+			* [[Functions to 0 and Infinity with l'Hôpital's Rule|Functions to 0 and Infinity with l'Hôpital's Rule]]
+			* [[Functions to infinity with L'Hôpital's Rule|Functions to infinity with L'Hôpital's Rule]]
+			* [[Limits with Exponentials and Indeterminates|Limits with Exponentials and Indeterminates]]
+			* Not going to ask about: [[Limit of Infinity - Infinity|Limit of Infinity - Infinity]]
 
 Class Info:
 * Homework generally due Friday midnight
