@@ -13,7 +13,7 @@ $$
 
 Newton's second law states [[The Derivative|the derivative]] with respect to time of the [[Momentum|momentum]] $\vec{p}$ is the force $\vec{F}$.
 
-If the mass does not change with time, then the derivative only affects the velocity (think [[Constant Rule for Derivatives|Constant Rule for Derivatives]]), that gives us:
+If the mass does not change with time, then the derivative only affects the velocity (think [[Constant Rule for Derivatives|Constant Rule for Derivatives]]), that gives us
 
 $$
 \vec{F} = m \vec{a}
