@@ -9,3 +9,4 @@ In order to resolve a collision we only need to change velocity.
 
 Acceleration changes velocity by an amount depending on time. Here our changes are **instant**.
 The **duration of the frame shouldn't affect the result**.
+
