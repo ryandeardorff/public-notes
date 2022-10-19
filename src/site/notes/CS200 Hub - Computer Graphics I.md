@@ -72,6 +72,7 @@ Midterm Review:
 	- What's going on between the vertex and fragment shader
 	- [[Rasterization|Rasterization]]
 		- [[Elementary Raster Operations|Elementary Raster Operations]]
+		- [[Efficiency Operations|Efficiency Operations]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
