@@ -234,11 +234,20 @@
 	- [[Derivative and Antiderivative with Estimated Graphing|Derivative and Antiderivative with Estimated Graphing]]
 	- [[Intro to the Antiderivative|Intro to the Antiderivative]]
 		- [[Sum of Squares|Sum of Squares]]
-	- [[Reimann Sums|Reimann Sums]]
-		- [[Left Reimann Sum|Left Reimann Sum]]
-		- [[Right Reimann Sum|Right Reimann Sum]]
-		- [[Midpoint Reimann Sum|Midpoint Reimann Sum]]
-		- [[Trapezoid Reimann Sum|Trapezoid Reimann Sum]]
+	- [[Riemann Sums|Riemann Sums]]
+		- [[Left Riemann Sum|Left Riemann Sum]]
+		- [[Right Riemann Sum|Right Riemann Sum]]
+		- [[Midpoint Riemann Sum|Midpoint Riemann Sum]]
+		- [[Trapezoid Riemann Sum|Trapezoid Riemann Sum]]
+- Day 17 (10/19/22):
+	- [[Finding Antiderivatives|Finding Antiderivatives]]
+	- Returning to [[Riemann Sums|Riemann Sums]]
+	- [[Connecting Reimann Sums to Antiderivatives|Connecting Reimann Sums to Antiderivatives]]
+		- [[Simpson's Method|Simpson's Method]]
+	- [[Turning Approximating with Reimann Sums into Accurate Results with Limits|Turning Approximating with Reimann Sums into Accurate Results with Limits]]
+	- [[The Integral|The Integral]]
+	- [[The Fundamental Theorem of Calculus|The Fundamental Theorem of Calculus]]
+		- [[Examples using the Fundamental Theorem of Calculus|Examples using the Fundamental Theorem of Calculus]]
 
 Class Info:
 * Homework generally due Friday midnight
