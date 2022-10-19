@@ -68,7 +68,10 @@ Midterm Review:
 - 10/19/22:
 	- Walked through the texture_demo and added he added the notes to the texture-notes.txt posted on the moodle.
 	- [[How Interpolation is when rendering on the graphics card|How Interpolation is when rendering on the graphics card]]
-	- 
+	- --- New Material ---
+	- What's going on between the vertex and fragment shader
+	- [[Rasterization|Rasterization]]
+		- [[Elementary Raster Operations|Elementary Raster Operations]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
