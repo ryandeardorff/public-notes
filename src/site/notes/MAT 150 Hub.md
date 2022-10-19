@@ -221,6 +221,24 @@
 			* [[Functions to infinity with L'Hôpital's Rule|Functions to infinity with L'Hôpital's Rule]]
 			* [[Limits with Exponentials and Indeterminates|Limits with Exponentials and Indeterminates]]
 			* Not going to ask about: [[Limit of Infinity - Infinity|Limit of Infinity - Infinity]]
+---
+- Day 16 (10/17/22): 
+	- Focus Now: What is the derivative for? Concept, the idea behind derivative.
+		- Recall: [[Optimization|Optimization]]
+		- [[Connecting the Derivate to Physics|Connecting the Derivate to Physics]] (or even further-- in my own notes [[Derivatives and Integrals for Physics|Derivatives and Integrals for Physics]])
+			- Including connecting to [[Newton's Second Law of Motion|Newton's Second Law of Motion]]
+		- Think of [[Investigating Bezier Curves|Investigating Bezier Curves]], [[Derivatives of Bezier Curves|Derivatives of Bezier Curves]]
+			- [[Bernstein Polynomial Form#^d82682|Bernstein Polynomial Form#^d82682]]
+		- [[Connecting Calculus to Interpolation|Connecting Calculus to Interpolation]]
+		- "Calculus might be an answer if you're trying to solve some kind of rate problem"
+	- [[Derivative and Antiderivative with Estimated Graphing|Derivative and Antiderivative with Estimated Graphing]]
+	- [[Intro to the Antiderivative|Intro to the Antiderivative]]
+		- [[Sum of Squares|Sum of Squares]]
+	- [[Reimann Sums|Reimann Sums]]
+		- [[Left Reimann Sum|Left Reimann Sum]]
+		- [[Right Reimann Sum|Right Reimann Sum]]
+		- [[Midpoint Reimann Sum|Midpoint Reimann Sum]]
+		- [[Trapezoid Reimann Sum|Trapezoid Reimann Sum]]
 
 Class Info:
 * Homework generally due Friday midnight
