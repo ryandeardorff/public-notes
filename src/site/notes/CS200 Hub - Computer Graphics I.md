@@ -1,0 +1,90 @@
+---
+{"dg-publish":true,"permalink":"/cs-200-hub-computer-graphics-i/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+#cs #hub 
+> [[🏫 School Hub|🏫 School Hub]]
+
+Notes Sets:
+- [[2D Affine Geometry|2D Affine Geometry]]
+- 9/7/22: Modeling Transformations
+	- [[Graphics Spaces|Graphics Spaces]]
+	- [[Modeling Transformation (object-to-world)|Modeling Transformation (object-to-world)]]
+	- [[Techniques for Constructing Modeling Transformations|Techniques for Constructing Modeling Transformations]]
+		- [[Scale Rotate Translate (SRT) Technique|Scale Rotate Translate (SRT) Technique]]
+		- [[Incremental Update Technique|Incremental Update Technique]]
+- 9/19/22: 2d Camera Model
+	- [[A Canonical Camera|A Canonical Camera]]
+	- [[Camera Space|Camera Space]]
+	- [[Camera to World Transformation|Camera to World Transformation]]
+	- [[Viewing Transformation (World-to-Camera)|Viewing Transformation (World-to-Camera)]]
+- 9/21/22:
+	- [[Normalized Device Coordinate (NDC) Space|Normalized Device Coordinate (NDC) Space]]
+	- [[The Standard Square|The Standard Square]]
+	- [[Comment about the linear part of a camera transformation|Comment about the linear part of a camera transformation]]
+		- [[Inverse of a Rotation (Graphics)|Inverse of a Rotation (Graphics)]]
+	- [[Camera to NDC Transform|Camera to NDC Transform]]
+	- [[2D Viewing Pipeline(Sequence)|2D Viewing Pipeline(Sequence)]]
+- 9/26/22: Bitmaps and Textures
+	- [[Frame Buffer Model|Frame Buffer Model]]
+	- [[Device Model|Device Model]]
+	- [[Bottom-up vs Top-Down scanning|Bottom-up vs Top-Down scanning]]
+	- [[Pixel Size and Scan Line Stride|Pixel Size and Scan Line Stride]]
+	- [[Frame Buffer Offset Calculation|Frame Buffer Offset Calculation]]
+- 9/28/22: 
+	- [[Bitmap Space|Bitmap Space]]
+		- [[Bitmap Rectangle|Bitmap Rectangle]]
+	- [[Texture Space|Texture Space]]
+		- [[The Unit Square|The Unit Square]]
+	- [[Bitmap-To-Texture Transform|Bitmap-To-Texture Transform]]
+	- [[Texture-to-Bitmap Transform|Texture-to-Bitmap Transform]]
+	- [[Coordinate Wrapping|Coordinate Wrapping]]
+- 10/3/22:
+	- [[Texturing Meshes|Texturing Meshes]]
+	- [[Object-to-Texture Transform|Object-to-Texture Transform]]
+	- [[Tiling Textures on an Object|Tiling Textures on an Object]]
+- 10/10/22:
+	- [[Bitmap (.bmp) files|Bitmap (.bmp) files]]
+	
+Midterm Review:
+- At a glance:
+	- [[Rotation (Matrix)|Rotation (Matrix)]]
+	- [[Rotation with respect to the horizontal|Rotation with respect to the horizontal]]
+	- [[The Unit Square|The Unit Square]]
+	- [[Inverse of a Matrix|Inverse of a Matrix]]
+	- [[Inverse of a Rotation (Graphics)|Inverse of a Rotation (Graphics)]]
+	- Viewing transform is world-to-camera which is camera-to-world inversed.
+	- [[Modeling Transformation (object-to-world)|Modeling Transformation (object-to-world)]]
+	- [[Scale Rotate Translate (SRT) Technique|Scale Rotate Translate (SRT) Technique]]
+	- [[Normalized Device Coordinate (NDC) Space|Normalized Device Coordinate (NDC) Space]]
+	- [[2D Viewing Pipeline(Sequence)|2D Viewing Pipeline(Sequence)]]
+	- [[Calculating Padding Size|Calculating Padding Size]]
+	- [[Frame Buffer Offset Calculation|Frame Buffer Offset Calculation]]
+	- [[Bitmap-To-Texture Transform|Bitmap-To-Texture Transform]]
+	- [[Object-to-Texture Transform|Object-to-Texture Transform]]
+
+- 10/17/22:
+	- [[Textured Meshes|Textured Meshes]]
+- 10/19/22:
+	- Walked through the texture_demo and added he added the notes to the texture-notes.txt posted on the moodle.
+	- [[How Interpolation is when rendering on the graphics card|How Interpolation is when rendering on the graphics card]]
+	- 
+
+Class Info:
+- Lots of stuff on the Moodle -- Notes
+- [cs200syllabus.pdf (digipen.edu)](https://distance.digipen.edu/2022-fall/pluginfile.php/117098/mod_resource/content/1/cs200syllabus.pdf)
+- Focus on 2d, next class (250) is 3d
+- Optional recommended texts
+	- Computer Graphics: From Pixels to Programmable Graphics Hardware, by Alexey Boreskov and Evgeniy Shikin
+		- Covers many of the topics that we will discuss in class
+		- Available on-line through Safari and the DigiPen library
+	- OpenGL Programming Guide, 9th edition, by John Kessenich, Graham Sellers, and Dave Shreiner
+		- General OpenGL reference for version 4.5
+		- Be aware that we will use version 3.3
+		- Available on-line through Safari and the DigiPen library
+- Coding is done in **standard c++11, graded on linux (make sure it compiles on gnu).**
+- Deadlines not super strict-- can fudge them by a day or so at most.
+	- Programming assignments up to like a week.
+- Exams:
+	- There is a midterm and a final
+- NO **`auto`!!!**
