@@ -30,3 +30,7 @@
 	- [[Iterative Contact Resolution|Iterative Contact Resolution]]
 	- [[Jacobian-Based Contact Resolution|Jacobian-Based Contact Resolution]]
 	- [[Reduced-Coordinate Contact Resolution|Reduced-Coordinate Contact Resolution]]
+- Hard Constraints:
+	- [[Velocities of Separation and Approach (Closing Velocity)|Velocities of Separation and Approach (Closing Velocity)]]
+	- [[Relative Velocity|Relative Velocity]]
+	- [[Coefficient of Restitution|Coefficient of Restitution]]
