@@ -14,3 +14,4 @@ These are the operations we allow ourselves to use when doing [[Rasterization|Ra
 Those first two set up the call to the last one.
 
 Note: `gotoPoint` will need to [[Frame Buffer Offset Calculation|compute the offset into the framebuffer]].
+This involves $2$ multiplications, and $1$ addition-- 3 operations total.
