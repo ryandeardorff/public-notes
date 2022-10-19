@@ -73,6 +73,7 @@ Midterm Review:
 	- [[Rasterization|Rasterization]]
 		- [[Elementary Raster Operations|Elementary Raster Operations]]
 		- [[Efficiency Operations|Efficiency Operations]]
+	- Showed a raster demo
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
