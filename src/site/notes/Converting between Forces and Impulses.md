@@ -14,5 +14,8 @@ $$
 p = \vec{F}t
 $$
 
-This is supposedly useful for resting contact.
+^e50426
+
+This is useful for [[Resting Contacts (microcollision approach)|Resting Contacts (microcollision approach)]].
+
 [source](https://learning.oreilly.com/library/view/game-physics-engine/9780123819765/chapter-53.html#:-:text=There%20is%20one%20more%20importa,t%20inthe%20following%20section)
