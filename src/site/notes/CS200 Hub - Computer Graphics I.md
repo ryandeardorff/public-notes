@@ -74,6 +74,10 @@ Midterm Review:
 		- [[Elementary Raster Operations|Elementary Raster Operations]]
 		- [[Efficiency Operations|Efficiency Operations]]
 	- Showed a raster demo
+- 10/24/22:
+	- Revisited raster demo that's posted on moodle.
+		- Discussed rounding to nearest pixel
+	- Review [[Elementary Raster Operations|Elementary Raster Operations]], [[Efficiency Operations|Efficiency Operations]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
