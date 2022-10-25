@@ -244,10 +244,30 @@
 	- Returning to [[Riemann Sums|Riemann Sums]]
 	- [[Connecting Reimann Sums to Antiderivatives|Connecting Reimann Sums to Antiderivatives]]
 		- [[Simpson's Method|Simpson's Method]]
+	- [[Antiderivative of sqrt of 1 - x squared|Antiderivative of sqrt of 1 - x squared]]
 	- [[Turning Approximating with Reimann Sums into Accurate Results with Limits|Turning Approximating with Reimann Sums into Accurate Results with Limits]]
 	- [[The Integral|The Integral]]
 	- [[The Fundamental Theorem of Calculus|The Fundamental Theorem of Calculus]]
 		- [[Examples using the Fundamental Theorem of Calculus|Examples using the Fundamental Theorem of Calculus]]
+- Day 18 (10/20/22): (Work day)
+	- [[Index Shifting Sums|Index Shifting Sums]]
+- Day 19 (10/24/22):
+	- Review: [[The Integral|The Integral]]
+	- [[Properties of Integrals|Properties of Integrals]]
+		- [[Sum Rule for Integrals|Sum Rule for Integrals]]
+		- [[Power Rule for Integrals|Power Rule for Integrals]]
+		- [[Constant Rule for Integrals|Constant Rule for Integrals]]
+	- [[Integrals with no Integrand|Integrals with no Integrand]]
+	- [[Integral of a Constant|Integral of a Constant]]
+	- [[How NOT to do Products in Integrals|How NOT to do Products in Integrals]]
+	- [[Products in Integrals|Products in Integrals]]
+	- [[Finding Definite Integrals|Finding Definite Integrals]]
+	- [[Integral of e to the x|Integral of e to the x]]
+	- [[Splitting Definite Integrals|Splitting Definite Integrals]]
+	- [[Piecewise Function|Piecewise Function]]
+	- [[Swapping Definite Integral Range|Swapping Definite Integral Range]]
+	- [[Quotients in Integrals|Quotients in Integrals]]
+	- [[Integral of x to the negative 1|Integral of x to the negative 1]]
 
 Class Info:
 * Homework generally due Friday midnight
