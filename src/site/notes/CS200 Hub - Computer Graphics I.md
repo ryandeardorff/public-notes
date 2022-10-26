@@ -81,6 +81,7 @@ Midterm Review:
 - 10/26/22:
 	- Went over assignment 9 (next assignment, not the one due Friday), it's a spotlight assignment, and we're only responsible for vertex and fragment shaders.
 	- [[Lighting Computation Space|Lighting Computation Space]]
+	- [[Swizzling Vectors|Swizzling Vectors]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
