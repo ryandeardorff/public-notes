@@ -78,6 +78,9 @@ Midterm Review:
 	- Revisited raster demo that's posted on moodle.
 		- Discussed rounding to nearest pixel
 	- Review [[Elementary Raster Operations|Elementary Raster Operations]], [[Efficiency Operations|Efficiency Operations]]
+- 10/26/22:
+	- Went over assignment 9 (next assignment, not the one due Friday), it's a spotlight assignment, and we're only responsible for vertex and fragment shaders.
+	- [[Lighting Computation Space|Lighting Computation Space]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
