@@ -13,4 +13,4 @@ vec2 vec_b = vec_a.xy;
 ```
 
 > In computer graphics, swizzling is the ability to compose vectors by arbitrarily rearranging and combining components of other vectors.
-[wikipedia](https://en.wikipedia.org/wiki/Swizzling_(computer_graphics))
+> [wikipedia](https://en.wikipedia.org/wiki/Swizzling_(computer_graphics))
