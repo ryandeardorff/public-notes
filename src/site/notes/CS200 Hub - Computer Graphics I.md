@@ -80,8 +80,12 @@ Midterm Review:
 	- Review [[Elementary Raster Operations|Elementary Raster Operations]], [[Efficiency Operations|Efficiency Operations]]
 - 10/26/22:
 	- Went over assignment 9 (next assignment, not the one due Friday), it's a spotlight assignment, and we're only responsible for vertex and fragment shaders.
-	- [[Lighting Computation Space|Lighting Computation Space]]
-	- [[Swizzling Vectors|Swizzling Vectors]]
+		- [[Lighting Computation Space|Lighting Computation Space]]
+		- [[Swizzling Vectors|Swizzling Vectors]]
+	- Back to drawing line segments
+		- Review: [[Line Rasterization|Line Rasterization]]
+		- [[Line Raster Pixel Algorithm|Line Raster Pixel Algorithm]]
+			- [[Optimizing the line raster pixel algorithm|Optimizing the line raster pixel algorithm]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
