@@ -268,6 +268,16 @@
 	- [[Swapping Definite Integral Range|Swapping Definite Integral Range]]
 	- [[Quotients in Integrals|Quotients in Integrals]]
 	- [[Integral of x to the negative 1|Integral of x to the negative 1]]
+- Day 20 (10/26/22):
+	- Review: [[Differentials|Differentials]]
+	- Review: [[Integral of a Constant|Integral of a Constant]]
+	- [[Integrals as the opposite of differentials|Integrals as the opposite of differentials]]
+	- [[u-substitution (integrals)|u-substitution (integrals)]]
+		- [[Alternate shortened u-substitution method|Alternate shortened u-substitution method]]
+		- [[Definite integrals and u-substitution|Definite integrals and u-substitution]]
+		- [[What u-substitution is doing|What u-substitution is doing]]
+	- [[When the integral breaks|When the integral breaks]]
+		- [[Why having functions like erf is useful|Why having functions like erf is useful]]
 
 Class Info:
 * Homework generally due Friday midnight
