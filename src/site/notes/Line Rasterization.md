@@ -8,7 +8,7 @@
 Input: 
 Endpoints $(x_{0}, y_{0}), (x_{1},y_{1})$
 $$
-m = \frac{\Delta{x}}{\Delta{y}}, \begin{cases}\Delta{y} \div y_{1}-y_{0} \\ \Delta x \div x_{1} - x_{0}\end{cases}
+m = \frac{\Delta{y}}{\Delta{x}}, \begin{cases}\Delta{y} = y_{1}-y_{0} \\ \Delta x = x_{1} - x_{0}\end{cases}
 $$
 - If $|m|\le 1$ and $\Delta{x}\gt0$
 	- Scan with $+x$ axis
