@@ -1,0 +1,10 @@
+---
+{"dg-publish":true,"permalink":"/antiderivative-of-sqrt-of-1-x-squared/","dgHomeLink":true,"dgPassFrontmatter":false}
+---
+
+#math 
+> [[MAT 150 Hub|MAT 150 Hub]]
+
+$$
+f(x) = \sqrt{1-x^{2}} \rightarrow \boxed{F(x) = \frac{1}{2} \arcsin{x} + \frac{1}{2} x \sqrt{1-x^{2}} + C}
+$$
