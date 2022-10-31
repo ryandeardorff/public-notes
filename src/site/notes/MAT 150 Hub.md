@@ -278,6 +278,11 @@
 		- [[What u-substitution is doing|What u-substitution is doing]]
 	- [[When the integral breaks|When the integral breaks]]
 		- [[Why having functions like erf is useful|Why having functions like erf is useful]]
+- Day 21 (10/31/22):
+	- [[Improper Integrals|Improper Integrals]]
+		- [[Diverging Improper Integrals|Diverging Improper Integrals]]
+		- [[Improper Integrals at values not in the domain|Improper Integrals at values not in the domain]]
+		- 
 
 Class Info:
 * Homework generally due Friday midnight
