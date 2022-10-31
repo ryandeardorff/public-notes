@@ -281,8 +281,11 @@
 - Day 21 (10/31/22):
 	- [[Improper Integrals|Improper Integrals]]
 		- [[Diverging Improper Integrals|Diverging Improper Integrals]]
-		- [[Improper Integrals at values not in the domain|Improper Integrals at values not in the domain]]
-		- 
+		- [[Improper Integrals at values not in the domain (asymptotes)|Improper Integrals at values not in the domain (asymptotes)]]
+		- [[How we can have convergence in an improper integral|How we can have convergence in an improper integral]]
+	- [[Integral of ln x by going through x ln x|Integral of ln x by going through x ln x]]
+		- [[Integration by Parts|Integration by Parts]] (outside the scope of this class, but what technically used above $\uparrow$)
+	- 
 
 Class Info:
 * Homework generally due Friday midnight
