@@ -86,6 +86,11 @@ Midterm Review:
 		- Review: [[Line Rasterization|Line Rasterization]]
 		- [[Line Raster Pixel Algorithm|Line Raster Pixel Algorithm]]
 			- [[Optimizing the line raster pixel algorithm|Optimizing the line raster pixel algorithm]]
+- 10/31/22: Rasterizing Triangles (Barycentrics) **REVIEW THIS:**
+	- [[Rasterization of Triangles|Rasterization of Triangles]]
+		- Review: [[Barycentric Coordinates|Barycentric Coordinates]], [[Barycentric Coordinates with 3 Points|Barycentric Coordinates with 3 Points]]
+			- [[Barycentric Coordinate Test|Barycentric Coordinate Test]]
+		- [[Tent Functions (Barycentric Coordinate Functions)|Tent Functions (Barycentric Coordinate Functions)]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
