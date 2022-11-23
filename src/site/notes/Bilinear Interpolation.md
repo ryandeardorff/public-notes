@@ -94,7 +94,7 @@ $
 $
 \begin{align}
 \hline
-I = &(1-s)(1-t)A  + &&s(1-t)B + &&stC + &&(1-s)t\\
+I = &(1-s)\cdot(1-t)\cdot A  + &&s\cdot(1-t)\cdot B + &&s\cdot t\cdot C + &&(1-s)\cdot t \cdot D\\
 	&\uparrow &&\uparrow  && \uparrow && \uparrow\\
 	&w_{A} && w_{B} && w_{C} && w_{D}
 \end{align}
@@ -150,7 +150,7 @@ $
 $
 \begin{align}
 \hline
-I = &(1-s)(1-t)A  + &&s(1-t)B + &&stC + &&(1-s)t\\
+I = &(1-s)\cdot(1-t)\cdot A  + &&s\cdot(1-t)\cdot B + &&s\cdot t\cdot C + &&(1-s)\cdot t \cdot D\\
 	&\uparrow &&\uparrow  && \uparrow && \uparrow\\
 	&w_{A} && w_{B} && w_{C} && w_{D}
 \end{align}
@@ -206,7 +206,7 @@ $
 $
 \begin{align}
 \hline
-I = &(1-s)(1-t)A  + &&s(1-t)B + &&stC + &&(1-s)t\\
+I = &(1-s)\cdot(1-t)\cdot A  + &&s\cdot(1-t)\cdot B + &&s\cdot t\cdot C + &&(1-s)\cdot t \cdot D\\
 	&\uparrow &&\uparrow  && \uparrow && \uparrow\\
 	&w_{A} && w_{B} && w_{C} && w_{D}
 \end{align}
@@ -262,7 +262,7 @@ $
 $
 \begin{align}
 \hline
-I = &(1-s)(1-t)A  + &&s(1-t)B + &&stC + &&(1-s)t\\
+I = &(1-s)\cdot(1-t)\cdot A  + &&s\cdot(1-t)\cdot B + &&s\cdot t\cdot C + &&(1-s)\cdot t \cdot D\\
 	&\uparrow &&\uparrow  && \uparrow && \uparrow\\
 	&w_{A} && w_{B} && w_{C} && w_{D}
 \end{align}
@@ -312,7 +312,7 @@ $$
 $$
 \begin{align}
 \hline
-I = &(1-s)(1-t)A  + &&s(1-t)B + &&stC + &&(1-s)t\\
+I = &(1-s)\cdot(1-t)\cdot A  + &&s\cdot(1-t)\cdot B + &&s\cdot t\cdot C + &&(1-s)\cdot t \cdot D\\
 	&\uparrow &&\uparrow  && \uparrow && \uparrow\\
 	&w_{A} && w_{B} && w_{C} && w_{D}
 \end{align}
