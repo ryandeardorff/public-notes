@@ -331,7 +331,11 @@
 	- [[Cycloid|Cycloid]]
 	- [[Cycloid with Calculus|Cycloid with Calculus]]
 - Day 26 (11/23/22): Optimization
-	- Review: [[Optimization|Optimization]], [[Local Extrema|Local Extrema]], [[Critical Points|Critical Points]]
+	- Review: [[Optimization|Optimization]], [[Local Extrema|Local Extrema]], [[Critical Points|Critical Points]], [[Finding Critical Points|Finding Critical Points]], [[Critical Points-- Remember the negative power!|Critical Points-- Remember the negative power!]]
+	- Review: [[Radioactive Decay Problems|Radioactive Decay Problems]]
+	- ** Review: [[Exponentials and Derivatives (other bases)|Exponentials and Derivatives (other bases)]]** $\leftarrow$ review this
+	- Review: [[Derivative of variable exponent and base|Derivative of variable exponent and base]]
+	- [[Best Path Problems|Best Path Problems]]
 
 Class Info:
 * Homework generally due Friday midnight
