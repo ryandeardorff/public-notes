@@ -86,11 +86,31 @@ Midterm Review:
 		- Review: [[Line Rasterization|Line Rasterization]]
 		- [[Line Raster Pixel Algorithm|Line Raster Pixel Algorithm]]
 			- [[Optimizing the line raster pixel algorithm|Optimizing the line raster pixel algorithm]]
-- 10/31/22: Rasterizing Triangles (Barycentrics) **REVIEW THIS:**
+- 10/31/22: Rasterizing Triangles (Barycentrics) **NOTE TO SELF: REVIEW THIS:**
 	- [[Rasterization of Triangles|Rasterization of Triangles]]
 		- Review: [[Barycentric Coordinates|Barycentric Coordinates]], [[Barycentric Coordinates with 3 Points|Barycentric Coordinates with 3 Points]]
 			- [[Barycentric Coordinate Test|Barycentric Coordinate Test]]
 		- [[Tent Functions (Barycentric Coordinate Functions)|Tent Functions (Barycentric Coordinate Functions)]]
+- 11/7/22: Rasterizing Triangles Cont'd.
+	- [[Interpolating Triangle Vertex Attributes using Barycentric Coordinates|Interpolating Triangle Vertex Attributes using Barycentric Coordinates]]
+	- [[Triangle Rasterization (Point Containment Algorithm)|Triangle Rasterization (Point Containment Algorithm)]]
+- 11/9/22: Software Rendering:
+	- Went over the LightRenderSoft -- light rendering in software-- demo posted on the moodle.
+	- Review: [[Triangle Rasterization (Point Containment Algorithm)|Triangle Rasterization (Point Containment Algorithm)]]
+- 11/14/22: More Software Rendering:
+  - Review: [[Triangle Rasterization (Point Containment Algorithm)|Triangle Rasterization (Point Containment Algorithm)]]
+  - What's Next: Texture Filtering (interpolation)
+- 11/16/22: Bilinear Interpolation
+	- Recall [[Barycentric Coordinates|Barycentric Coordinates]], [[Barycentric Coordinates with 3 Points|Barycentric Coordinates with 3 Points]], [[Tent Functions (Barycentric Coordinate Functions)|Tent Functions (Barycentric Coordinate Functions)]]
+	- [[Bilinear Interpolation|Bilinear Interpolation]]
+	- [[Corners of Sub-rectangles (for interpolating pixel colors)|Corners of Sub-rectangles (for interpolating pixel colors)]]
+	- [[Interpolation parameters for pixel colors from bitmap coords|Interpolation parameters for pixel colors from bitmap coords]]
+- 11/21/22:
+	- Went over shader examples, what you can do with shaders
+	- [[GLSL discard|GLSL discard]]
+	- [[Mandelbrot Set (Incomplete Note)|Mandelbrot Set (Incomplete Note)]]
+	- [[Möbius Transform|Möbius Transform]]
+		- [Moebius Transformation (digipen.edu)](https://faculty.digipen.edu/~jhanson/protected/temp/moebius.html)
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
