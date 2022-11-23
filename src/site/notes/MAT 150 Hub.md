@@ -168,7 +168,7 @@
 	* [[Radius of Convergence|Radius of Convergence]]
 	* [[Witch of Agnesi|Witch of Agnesi]]
 	* [[Taylor Series and Witch of Agnesi|Taylor Series and Witch of Agnesi]]
-	* [[Always Converging with e to the x|Always Converging with e to the x]]
+	* [[Always Converging with e to the x (Maclaurin Series of e to the x)|Always Converging with e to the x (Maclaurin Series of e to the x)]]
 * Day 15 (10/10/22):
 	* Midterm Review:
 		* [[Understanding the Second Derivative using Infinitesimals|Understanding the Second Derivative using Infinitesimals]] -- not much on the test for that-- they're a means to an end
@@ -285,7 +285,53 @@
 		- [[How we can have convergence in an improper integral|How we can have convergence in an improper integral]]
 	- [[Integral of ln x by going through x ln x|Integral of ln x by going through x ln x]]
 		- [[Integration by Parts|Integration by Parts]] (outside the scope of this class, but what technically used above $\uparrow$)
-	- 
+- Day 23 (11/7/22):
+	- Review: [[The Chain Rule for Derivatives|The Chain Rule for Derivatives]], [[u-substitution (integrals)|u-substitution (integrals)]]
+	- [[How seeing the derivative beckons for u-substitution|How seeing the derivative beckons for u-substitution]]
+	- [[Reusing the u of the u-substitution to get around powers|Reusing the u of the u-substitution to get around powers]]
+	- [[Initial Condition with Integrals|Initial Condition with Integrals]]
+	- Review: [[Derivatives and Integrals for Physics|Derivatives and Integrals for Physics]]
+	- [[Natural Log of 1|Natural Log of 1]]
+	- [[Differential Equations|Differential Equations]]
+	- [[Triple Angle Formula for Sine and Cosine|Triple Angle Formula for Sine and Cosine]]
+	- [[Making Integrals Simpler with Double Angle Formulas|Making Integrals Simpler with Double Angle Formulas]]
+	- [[Doing Integrals With C Without Solving C|Doing Integrals With C Without Solving C]]
+	- Review [[Subtracting Logarithms|Subtracting Logarithms]], [[Adding Logarithms|Adding Logarithms]]
+	- Review: [[Turning Approximating with Reimann Sums into Accurate Results with Limits|Turning Approximating with Reimann Sums into Accurate Results with Limits]]
+	- Review: [[Riemann Sum Interpretation of Differences in Integrals|Riemann Sum Interpretation of Differences in Integrals]]
+	- [[Piecewise Integral Problems|Piecewise Integral Problems]]
+	- [[Divvying Up Area by doing sums horizontally|Divvying Up Area by doing sums horizontally]]
+	- [[Polar Coordinates and Integrals|Polar Coordinates and Integrals]]
+	- [[Volumes with Integrals|Volumes with Integrals]]
+- Day 24 (11/14/22): The Return of Taylor Series
+	- Review: [[Taylor Series|Taylor Series]]
+	- Review: [[Taylor Series Around a Point Example|Taylor Series Around a Point Example]]
+	- Review: [[Radius of Convergence|Radius of Convergence]]
+	- [[MacLaurin Series|MacLaurin Series]]
+	- Review: [[Always Converging with e to the x (Maclaurin Series of e to the x)|Always Converging with e to the x (Maclaurin Series of e to the x)]]
+	- Review: [[Ratio Test for Convergence|Ratio Test for Convergence]]
+	- Review: [[Geometric Series|Geometric Series]], [[Solving Infinite Geometric Series with Limits (Converging and Diverging Series)|Solving Infinite Geometric Series with Limits (Converging and Diverging Series)]]
+	- [[MacLaurin Series of e to the x|MacLaurin Series of e to the x]]
+	- [[Integrals of Infinite Series|Integrals of Infinite Series]]
+		- Review: [[Index Shifting Sums|Index Shifting Sums]]
+		- [[Using integrals to solve series|Using integrals to solve series]]
+	- [[Getting to a MacLaurin Series with a less straight forward fraction|Getting to a MacLaurin Series with a less straight forward fraction]]
+	- [[Solving Inequalities|Solving Inequalities]]
+	- [[Integral with a square root and u sub denominator (MacLaurin Series Helps)|Integral with a square root and u sub denominator (MacLaurin Series Helps)]]
+	- [[Series Examples|Series Examples]]
+- Day 25 (11/21/22): Miscellaneous Stuff
+	- Review [[Riemann Sums|Riemann Sums]]
+	- Review [[Polar Coordinates and Integrals|Polar Coordinates and Integrals]]
+	- Review [[Volumes with Integrals|Volumes with Integrals]]
+	- [[Arc Length with Calculus|Arc Length with Calculus]]
+	- [[Formula for Arc Length|Formula for Arc Length]]
+	- Review [[Definite integrals and u-substitution|Definite integrals and u-substitution]]
+	- From [[MAT140 Hub|MAT140 Hub]]: [[Parametric Equations of a Line|Parametric Equations of a Line]], [[Parametric Functions|Parametric Functions]]
+	- [[Parametric Equations and Calculus|Parametric Equations and Calculus]]
+	- [[Cycloid|Cycloid]]
+	- [[Cycloid with Calculus|Cycloid with Calculus]]
+- Day 26 (11/23/22): Optimization
+	- Review: [[Optimization|Optimization]], [[Local Extrema|Local Extrema]], [[Critical Points|Critical Points]]
 
 Class Info:
 * Homework generally due Friday midnight
