@@ -15,8 +15,13 @@ ___
 - [[CS170 Notes|CS170 Notes]]
 
 ___
-* [[MAT 150 Hub|MAT 150 Hub]]
+* [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 * [[CS200 Hub - Computer Graphics I|CS200 Hub - Computer Graphics I]]
 * [[GAM200 Hub|GAM200 Hub]]
 * [[CS225 Hub|CS225 Hub]]
 
+---
+- [[CS250 Hub|CS250 Hub]]
+- [[PHY200Lab Hub|PHY200Lab Hub]]
+- [[PHY200 Hub - Motion Dynamics|PHY200 Hub - Motion Dynamics]]
+- [[MAT 200 Hub - Calc II|MAT 200 Hub - Calc II]]
