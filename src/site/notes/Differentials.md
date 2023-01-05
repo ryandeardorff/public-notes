@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 In [[The Derivative#^1e94d4|Leibniz Notation]] we see $\frac{dy}{dx}$ This is a differential
 
