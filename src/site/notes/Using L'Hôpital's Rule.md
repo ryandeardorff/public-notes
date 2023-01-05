@@ -3,7 +3,7 @@
 ---
 
 #math 
->[[MAT 150 Hub|MAT 150 Hub]], [[L'Hôpital's Rule|L'Hôpital's Rule]]
+>[[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[L'Hôpital's Rule|L'Hôpital's Rule]]
 
 $$
 \lim_{x\rightarrow 0} \frac{1-\cos{x}}{x^{2}} $$
