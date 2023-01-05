@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 $$
 \lim_{x\rightarrow2^{+}} = \frac{1}{x+3} = \frac{1}{2^{+}+3} = \frac{1}{5^{+}} = \left(\frac{1}{5}\right)^{-}
