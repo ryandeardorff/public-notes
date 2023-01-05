@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/midpoint-riemann-sum/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Riemann Sums|Riemann Sums]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Riemann Sums|Riemann Sums]]
 
 <style>
 .container {font-family: sans-serif; text-align: center;}
