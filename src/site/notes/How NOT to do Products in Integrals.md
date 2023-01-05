@@ -3,7 +3,7 @@
 ---
 
 #math 
->[[MAT 150 Hub|MAT 150 Hub]], [[Products in Integrals|Products in Integrals]]
+>[[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Products in Integrals|Products in Integrals]]
 
 **DO NOT DO THIS!!!!**
 $$
