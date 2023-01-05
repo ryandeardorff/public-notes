@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 $$
 \lim_{x\rightarrow 2} \frac{x^{2}-3x+2}{x-2} = \lim_{x\rightarrow 2}\frac{(x-2)(x+1)}{x-2} = \lim_{x\rightarrow2}(x+1) = 3
