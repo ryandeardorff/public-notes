@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 [[Sum Rule for Integrals|Sum Rule for Integrals]]
 [[Power Rule for Integrals|Power Rule for Integrals]]
