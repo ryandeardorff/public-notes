@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[The Fundamental Theorem of Calculus|The Fundamental Theorem of Calculus]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[The Fundamental Theorem of Calculus|The Fundamental Theorem of Calculus]]
 
 $$
 f(x) = x^{2} \qquad F(x) =  \frac{1}{3}x^{3}
