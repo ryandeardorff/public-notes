@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 **Optimization** is the question of:
 Where is this function largest/smallest
