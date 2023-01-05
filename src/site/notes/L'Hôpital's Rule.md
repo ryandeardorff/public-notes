@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 $$
 \text{Let } f,g \text{ be fractions such that:} \\
