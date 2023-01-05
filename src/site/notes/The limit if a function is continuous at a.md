@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 If $f$ is defined and *contiguous* at $a$ then,
 $$
