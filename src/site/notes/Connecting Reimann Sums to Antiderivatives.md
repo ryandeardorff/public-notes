@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Riemann Sums|Riemann Sums]], [[Finding Antiderivatives|Finding Antiderivatives]], [[Intro to the Antiderivative|Intro to the Antiderivative]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Riemann Sums|Riemann Sums]], [[Finding Antiderivatives|Finding Antiderivatives]], [[Intro to the Antiderivative|Intro to the Antiderivative]]
 
 ---
 ### Rewriting the Approximates
