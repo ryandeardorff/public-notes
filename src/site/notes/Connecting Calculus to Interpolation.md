@@ -3,7 +3,7 @@
 ---
 
 #math #cs 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Linear Interpolation|Linear Interpolation]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Linear Interpolation|Linear Interpolation]]
 
 Compared to [[Linear Interpolation|Linear Interpolation]] we might want more organic motion:
 <style>
