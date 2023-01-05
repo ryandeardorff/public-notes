@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 Recall [[The Power Rule for Derivatives|The Power Rule for Derivatives]].
 And recall [[Differentials|Differentials]]
