@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Turning Approximating with Reimann Sums into Accurate Results with Limits|Turning Approximating with Reimann Sums into Accurate Results with Limits]], [[Riemann Sums|Riemann Sums]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Turning Approximating with Reimann Sums into Accurate Results with Limits|Turning Approximating with Reimann Sums into Accurate Results with Limits]], [[Riemann Sums|Riemann Sums]]
 
 This comes directly from [[Turning Approximating with Reimann Sums into Accurate Results with Limits|Turning Approximating with Reimann Sums into Accurate Results with Limits]] and [[Riemann Sums|Riemann Sums]].
 
