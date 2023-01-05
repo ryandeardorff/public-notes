@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Intro to the Antiderivative|Intro to the Antiderivative]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Intro to the Antiderivative|Intro to the Antiderivative]]
 
 $$
 f(x) = x^{n} \rightarrow F(x) = \frac{1}{n+1}x^{n+1} + \textcolor{orange}C
