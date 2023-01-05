@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[u-substitution (integrals)|u-substitution (integrals)]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[u-substitution (integrals)|u-substitution (integrals)]]
 
 If we have a [[The Integral|definite integral]], then when we do [[u-substitution (integrals)|u-substitution (integrals)]], we need to be careful with range values
 
