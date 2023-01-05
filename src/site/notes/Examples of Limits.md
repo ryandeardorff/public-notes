@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[The Limit|The Limit]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[The Limit|The Limit]]
 
 $$
 \lim_{x\rightarrow 3} x^{2}= 3^{2} = 9
