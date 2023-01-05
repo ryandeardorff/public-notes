@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 
 ### Constant Rule
 For any function $f$, constant $c$.
