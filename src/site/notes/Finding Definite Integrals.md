@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[The Integral|The Integral]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[The Integral|The Integral]]
 
 $$
 \int_{a}^{b} f(x) \ dx = F(b) - F(a)
