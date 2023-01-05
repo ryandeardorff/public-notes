@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]],
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]],
 
 $$
 \sum\limits_{n=0}^{x} n ^{z}= \frac{x(x+1)(2x+1)}{6}
