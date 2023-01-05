@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Improper Integrals|Improper Integrals]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Improper Integrals|Improper Integrals]]
 
 $$
 \int_{0}^{1} \frac{1}{x^{2}} dx
