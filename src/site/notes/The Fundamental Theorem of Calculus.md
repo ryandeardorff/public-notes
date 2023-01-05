@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[The Integral|The Integral]], [[Riemann Sums|Riemann Sums]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[The Integral|The Integral]], [[Riemann Sums|Riemann Sums]]
 
 $$
 \begin{align}
