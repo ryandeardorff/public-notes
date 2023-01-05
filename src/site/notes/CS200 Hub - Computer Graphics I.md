@@ -111,6 +111,32 @@ Midterm Review:
 	- [[Mandelbrot Set (Incomplete Note)|Mandelbrot Set (Incomplete Note)]]
 	- [[Möbius Transform|Möbius Transform]]
 		- [Moebius Transformation (digipen.edu)](https://faculty.digipen.edu/~jhanson/protected/temp/moebius.html)
+- [[Finding Barycentric Functions|Finding Barycentric Functions]]
+
+Final Study:
+- Should Probably review:
+	- [[Camera to World Transformation|Camera to World Transformation]]
+	- [[2D Viewing Pipeline(Sequence)|2D Viewing Pipeline(Sequence)]]
+	- [[Pixel Size and Scan Line Stride|Pixel Size and Scan Line Stride]]
+	- [[Frame Buffer Offset Calculation|Frame Buffer Offset Calculation]]
+	- [[Coordinate Wrapping|Coordinate Wrapping]]
+	- [[Efficiency Operations|Efficiency Operations]]
+- Rough Subjects:
+	- [[Comment about the linear part of a camera transformation|Comment about the linear part of a camera transformation]]
+		- [[Inverse of a Rotation (Graphics)|Inverse of a Rotation (Graphics)]]
+	- [[Bitmap Rectangle|Bitmap Rectangle]]
+	- [[Bitmap-To-Texture Transform|Bitmap-To-Texture Transform]]
+	- [[Texture-to-Bitmap Transform|Texture-to-Bitmap Transform]]
+	- [[Tiling Textures on an Object|Tiling Textures on an Object]]
+	- [[Line Rasterization|Line Rasterization]]
+		- [[Line Raster Pixel Algorithm|Line Raster Pixel Algorithm]]
+			- [[Optimizing the line raster pixel algorithm|Optimizing the line raster pixel algorithm]]
+	- [[Rasterization of Triangles|Rasterization of Triangles]]
+		- [[Tent Functions (Barycentric Coordinate Functions)|Tent Functions (Barycentric Coordinate Functions)]]
+		- [[Triangle Rasterization (Point Containment Algorithm)|Triangle Rasterization (Point Containment Algorithm)]]
+	- [[Finding Barycentric Functions|Finding Barycentric Functions]]
+		- This is related to [[Tent Functions (Barycentric Coordinate Functions)|Tent Functions (Barycentric Coordinate Functions)]]
+		- and [[Interpolating Triangle Vertex Attributes using Barycentric Coordinates|Interpolating Triangle Vertex Attributes using Barycentric Coordinates]]
 
 Class Info:
 - Lots of stuff on the Moodle -- Notes
