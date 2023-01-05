@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[The Derivative|The Derivative]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[The Derivative|The Derivative]]
 
 $$
 y'' = \frac{d}{dx} \frac{dy}{dx} = \frac{d^{2}y}{dx^{2}}
