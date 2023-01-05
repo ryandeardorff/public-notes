@@ -3,10 +3,16 @@
 ---
 
 #physics #math 
-> [[Game Physics Research Hub|Game Physics Research Hub]]
+> [[Game Physics Research Hub|Game Physics Research Hub]], [[PHY200 Hub - Motion Dynamics|PHY200 Hub - Motion Dynamics]]
 
 $$
-a = \frac{\Delta{v}}{\Delta{t}}
+\vec{a} = \frac{\Delta{\vec{v}}}{\Delta{t}}
 $$
 
-Acceleration is the change in velocity $\Delta{v}$ over time $\Delta{t}$
+Acceleration is the change in velocity $\Delta{\vec{v}}$ over a period of time $\Delta{t}$
+
+---
+
+### Units:
+Usually 
+$$m/s^{2}$$
