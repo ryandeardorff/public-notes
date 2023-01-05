@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Properties of Integrals|Properties of Integrals]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Properties of Integrals|Properties of Integrals]]
 
 $$
 \int x^{n} dx = \frac{1}{n+1} x^{n+1} + C
