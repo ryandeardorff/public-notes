@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[The Integral|The Integral]], [[Diverging Improper Integrals|Diverging Improper Integrals]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[The Integral|The Integral]], [[Diverging Improper Integrals|Diverging Improper Integrals]]
 
 <style>
 .container {font-family: sans-serif; text-align: center;}
