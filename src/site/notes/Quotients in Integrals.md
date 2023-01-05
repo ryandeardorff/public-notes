@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Properties of Integrals|Properties of Integrals]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Properties of Integrals|Properties of Integrals]]
 
 $$
 \begin{align}
