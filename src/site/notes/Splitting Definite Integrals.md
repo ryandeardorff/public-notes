@@ -3,7 +3,7 @@
 ---
 
 #math 
-> [[MAT 150 Hub|MAT 150 Hub]], [[Properties of Integrals|Properties of Integrals]]
+> [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Properties of Integrals|Properties of Integrals]]
 
 $$
 \int_{a}^{c} f(x) \ dx = \int_{a}^{b} f(x)dx + \int_{b}^{c} f(x)dx
