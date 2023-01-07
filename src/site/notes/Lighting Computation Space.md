@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/lighting-computation-space/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/lighting-computation-space/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics 
