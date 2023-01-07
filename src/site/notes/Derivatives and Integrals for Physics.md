@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/derivatives-and-integrals-for-physics/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/derivatives-and-integrals-for-physics/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 
