@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/index-shifting-sums/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/index-shifting-sums/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
