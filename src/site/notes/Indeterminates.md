@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/indeterminates/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/indeterminates/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
