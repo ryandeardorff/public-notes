@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-second-order-derivatives-are-useful-for-physics/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/why-second-order-derivatives-are-useful-for-physics/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
