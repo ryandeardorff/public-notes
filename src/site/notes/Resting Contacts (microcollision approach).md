@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/resting-contacts-microcollision-approach/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/resting-contacts-microcollision-approach/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics #cs 
