@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-console-input-super-basic/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/rust-console-input-super-basic/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #rust
