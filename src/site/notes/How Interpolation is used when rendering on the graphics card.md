@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-interpolation-is-used-when-rendering-on-the-graphics-card/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/how-interpolation-is-used-when-rendering-on-the-graphics-card/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics 
