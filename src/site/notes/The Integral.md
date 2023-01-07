@@ -7,7 +7,7 @@
 
 This comes directly from [[Turning Approximating with Reimann Sums into Accurate Results with Limits|Turning Approximating with Reimann Sums into Accurate Results with Limits]] and [[Riemann Sums|Riemann Sums]].
 
---> **Integrals are sums.** <--
+--> **Integrals are sums.** <-- ^c63a9b
 
 ### Definite Integral
 $$
