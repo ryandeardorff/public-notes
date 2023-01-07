@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/integrals-with-no-integrand/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/integrals-with-no-integrand/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
