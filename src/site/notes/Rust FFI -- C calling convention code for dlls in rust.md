@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-ffi-c-calling-convention-code-for-dlls-in-rust/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/rust-ffi-c-calling-convention-code-for-dlls-in-rust/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #rust
