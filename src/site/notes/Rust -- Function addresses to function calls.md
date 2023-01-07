@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-function-addresses-to-function-calls/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/rust-function-addresses-to-function-calls/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #rust #modding 
