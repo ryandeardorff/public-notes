@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/spiderman-remastered-hub/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/spiderman-remastered-hub/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Spiderman Remastered Modding Hub
