@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/exploring-delta-time-with-vel-accel-and-pos/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/exploring-delta-time-with-vel-accel-and-pos/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
