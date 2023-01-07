@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/constant-rule-for-integrals/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/constant-rule-for-integrals/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
