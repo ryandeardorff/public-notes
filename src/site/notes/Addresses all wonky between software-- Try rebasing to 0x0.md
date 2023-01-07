@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/addresses-all-wonky-between-software-try-rebasing-to-0x0/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/addresses-all-wonky-between-software-try-rebasing-to-0x0/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #modding 
