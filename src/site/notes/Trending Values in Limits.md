@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trending-values-in-limits/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/trending-values-in-limits/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
