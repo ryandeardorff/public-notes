@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bernstein-polynomial-form/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/bernstein-polynomial-form/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math #cs 
