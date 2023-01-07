@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/cs-200-hub-computer-graphics-i/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/cs-200-hub-computer-graphics-i/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #hub 
