@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/midpoint-riemann-sum/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/midpoint-riemann-sum/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 > [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]], [[Riemann Sums|Riemann Sums]]
