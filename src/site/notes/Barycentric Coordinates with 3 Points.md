@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barycentric-coordinates-with-3-points/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/barycentric-coordinates-with-3-points/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
