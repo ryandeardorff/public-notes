@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/swizzling-vectors/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/swizzling-vectors/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #graphics 
