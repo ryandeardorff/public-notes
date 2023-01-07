@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-dll-injection-example-dll-crab-create-remote-thread-code/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/rust-dll-injection-example-dll-crab-create-remote-thread-code/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #rust #modding 
