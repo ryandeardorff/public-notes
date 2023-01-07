@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/velocity-by-constant-acceleration/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/velocity-by-constant-acceleration/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
