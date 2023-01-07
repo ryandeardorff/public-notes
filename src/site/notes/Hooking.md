@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hooking/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/hooking/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #modding 
