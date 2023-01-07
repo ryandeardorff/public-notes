@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-28-22-notes-new-notation-for-points-and-vectors/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/3-28-22-notes-new-notation-for-points-and-vectors/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math #notes-set 
