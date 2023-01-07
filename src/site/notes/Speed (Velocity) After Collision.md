@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/speed-velocity-after-collision/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/speed-velocity-after-collision/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
