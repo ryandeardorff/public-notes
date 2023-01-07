@@ -8,6 +8,8 @@
 - [[Rust Hub|Rust Hub]]
 - Courses:
 	- [[MAT140 Hub|MAT140 Hub]] (Linear Algebra)
+	- [[PHY200 Hub - Motion Dynamics|PHY200 Hub - Motion Dynamics]]
+	- [[CS200 Hub - Computer Graphics I|CS200 Hub - Computer Graphics I]]
 
 ### Intro
 #### About:
