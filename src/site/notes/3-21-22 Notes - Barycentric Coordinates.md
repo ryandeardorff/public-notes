@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3-21-22-notes-barycentric-coordinates/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/3-21-22-notes-barycentric-coordinates/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
