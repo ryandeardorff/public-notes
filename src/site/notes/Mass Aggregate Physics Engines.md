@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mass-aggregate-physics-engines/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/mass-aggregate-physics-engines/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
