@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-fundamental-theorem-of-calculus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/the-fundamental-theorem-of-calculus/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
