@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/connecting-the-derivate-to-physics/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/connecting-the-derivate-to-physics/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
