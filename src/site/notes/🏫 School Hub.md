@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/school-hub/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/school-hub/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #hub
