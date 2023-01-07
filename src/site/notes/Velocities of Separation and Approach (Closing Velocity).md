@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/velocities-of-separation-and-approach-closing-velocity/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/velocities-of-separation-and-approach-closing-velocity/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
