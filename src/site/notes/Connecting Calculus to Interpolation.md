@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/connecting-calculus-to-interpolation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/connecting-calculus-to-interpolation/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math #cs 
