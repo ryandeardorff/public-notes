@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/physics-integration/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/physics-integration/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
