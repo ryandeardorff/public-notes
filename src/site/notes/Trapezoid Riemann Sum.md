@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/trapezoid-riemann-sum/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/trapezoid-riemann-sum/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
