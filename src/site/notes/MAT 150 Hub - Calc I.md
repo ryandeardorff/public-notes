@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mat-150-hub-calc-i/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/mat-150-hub-calc-i/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math #hub 
