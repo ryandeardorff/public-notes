@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/toc-file-decompression-and-parsing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/toc-file-decompression-and-parsing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #modding 
