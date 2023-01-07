@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bilinear-interpolation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/bilinear-interpolation/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #graphics 
