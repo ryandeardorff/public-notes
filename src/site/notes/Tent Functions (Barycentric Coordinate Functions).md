@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tent-functions-barycentric-coordinate-functions/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/tent-functions-barycentric-coordinate-functions/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math #graphics 
