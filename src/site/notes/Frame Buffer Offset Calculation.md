@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/frame-buffer-offset-calculation/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/frame-buffer-offset-calculation/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics #cs 
