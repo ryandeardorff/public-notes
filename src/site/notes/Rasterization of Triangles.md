@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rasterization-of-triangles/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/rasterization-of-triangles/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics 
