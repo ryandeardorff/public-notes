@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/contact-normal-collision-direction/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/contact-normal-collision-direction/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
