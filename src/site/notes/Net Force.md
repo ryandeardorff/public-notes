@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/net-force/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/net-force/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
