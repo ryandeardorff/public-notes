@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/examples-using-the-fundamental-theorem-of-calculus/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/examples-using-the-fundamental-theorem-of-calculus/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
