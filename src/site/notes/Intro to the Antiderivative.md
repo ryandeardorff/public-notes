@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/intro-to-the-antiderivative/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/intro-to-the-antiderivative/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
