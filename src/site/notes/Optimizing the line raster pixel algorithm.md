@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/optimizing-the-line-raster-pixel-algorithm/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/optimizing-the-line-raster-pixel-algorithm/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics 
