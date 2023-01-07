@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/using-l-hopital-s-rule/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/using-l-hopital-s-rule/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
