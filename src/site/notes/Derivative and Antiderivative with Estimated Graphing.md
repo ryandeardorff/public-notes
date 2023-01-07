@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/derivative-and-antiderivative-with-estimated-graphing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/derivative-and-antiderivative-with-estimated-graphing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
