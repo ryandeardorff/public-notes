@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/efficiency-operations/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/efficiency-operations/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics #cs 
