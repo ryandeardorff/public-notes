@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/homogeneous-coordinates/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/homogeneous-coordinates/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
