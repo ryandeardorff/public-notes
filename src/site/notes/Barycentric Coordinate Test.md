@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/barycentric-coordinate-test/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/barycentric-coordinate-test/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math #graphics 
