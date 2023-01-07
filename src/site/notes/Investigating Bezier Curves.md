@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/investigating-bezier-curves/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/investigating-bezier-curves/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #notes-set #math #cs
