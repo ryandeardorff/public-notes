@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/why-having-functions-like-erf-is-useful/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/why-having-functions-like-erf-is-useful/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
