@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/what-u-substitution-is-doing/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/what-u-substitution-is-doing/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
