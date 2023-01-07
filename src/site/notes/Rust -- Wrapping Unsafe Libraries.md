@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/rust-wrapping-unsafe-libraries/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/rust-wrapping-unsafe-libraries/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #rust 
