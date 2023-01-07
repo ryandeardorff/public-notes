@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/the-limit-if-a-function-is-continuous-at-a/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/the-limit-if-a-function-is-continuous-at-a/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
