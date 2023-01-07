@@ -10,6 +10,11 @@ $$
 $$
 Where $n \ne 1$.
 
+The $x$ term must match the [[Differentials|differential]]:
+$$
+\int \textcolor{orange}x^{n}\, d\textcolor{orange}x
+$$
+
 ---
 ### Why?
 $$
