@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/turning-approximating-with-reimann-sums-into-accurate-results-with-limits/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/turning-approximating-with-reimann-sums-into-accurate-results-with-limits/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
