@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/definite-integrals-and-u-substitution/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/definite-integrals-and-u-substitution/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
