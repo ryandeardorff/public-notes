@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/converting-between-forces-and-impulses/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/converting-between-forces-and-impulses/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
