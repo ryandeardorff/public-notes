@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newton-s-second-law-of-motion/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/newton-s-second-law-of-motion/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
