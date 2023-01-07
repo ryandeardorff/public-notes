@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/d-alembert-s-principle/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/d-alembert-s-principle/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
