@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/situations-of-measurements-or-problems/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/situations-of-measurements-or-problems/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
