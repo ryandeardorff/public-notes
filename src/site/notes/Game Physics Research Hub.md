@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/game-physics-research-hub/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/game-physics-research-hub/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #hub #cs #math #physics
