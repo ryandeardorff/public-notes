@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/assumption-that-acceleration-is-constant/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/assumption-that-acceleration-is-constant/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
