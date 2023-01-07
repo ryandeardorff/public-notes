@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concavity-sign-of-the-second-derivative/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/concavity-sign-of-the-second-derivative/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
