@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smr-notable-binary-exe-locations/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/smr-notable-binary-exe-locations/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Notable Binary Exe Locations
