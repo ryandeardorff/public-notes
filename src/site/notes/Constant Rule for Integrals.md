@@ -8,6 +8,9 @@
 $$
 \int k f(x) \ dx = k \int f(x) \ dx
 $$
+
+^5e6253
+
 where $k$ is a **constant**.
 
 ---
