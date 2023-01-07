@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/integrals-as-the-opposite-of-differentials/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/integrals-as-the-opposite-of-differentials/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
