@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/improper-integrals-at-values-not-in-the-domain-asymptotes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/improper-integrals-at-values-not-in-the-domain-asymptotes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
