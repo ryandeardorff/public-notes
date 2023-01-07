@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-5-22-notes/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/1-5-22-notes/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math #notes-set 
