@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mat-140-hub/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/mat-140-hub/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #hub #math  
