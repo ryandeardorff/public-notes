@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/line-rasterization/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/line-rasterization/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics 
