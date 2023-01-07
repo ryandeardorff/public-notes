@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/derivatives-of-bezier-curves/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/derivatives-of-bezier-curves/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 # Derivatives of Bezier Curves
