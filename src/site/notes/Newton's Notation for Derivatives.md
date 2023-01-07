@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/newton-s-notation-for-derivatives/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/newton-s-notation-for-derivatives/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
