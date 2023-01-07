@@ -33,4 +33,28 @@ t &= \boxed{5 s}
 $$
 ```
 
+---
+### Example 2: 
+<div id="Kinematics_Examples_2023-01-06_1923.17.excalidraw.md2"></div><script>(function(){const InitialData={"type":"excalidraw","version":2,"source":"https://excalidraw.com","elements":[{"type":"ellipse","version":25,"versionNonce":79996250,"isDeleted":false,"id":"4lx6yxlfyQ1B4IecL5yZ7","fillStyle":"hachure","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"angle":0,"x":-142.39996337890625,"y":-72.6437759399414,"strokeColor":"#000000","backgroundColor":"transparent","width":44,"height":44,"seed":1568233798,"groupIds":[],"strokeSharpness":"sharp","boundElements":[],"updated":1673061809341,"link":null,"locked":false},{"type":"arrow","version":116,"versionNonce":1887655066,"isDeleted":false,"id":"Y30sx8RgVEx-CJhvHoktB","fillStyle":"hachure","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"angle":0,"x":-120.79998779296875,"y":-48.643775939941406,"strokeColor":"#000000","backgroundColor":"transparent","width":0,"height":113.60000610351562,"seed":750585754,"groupIds":[],"strokeSharpness":"round","boundElements":[],"updated":1673061814101,"link":null,"locked":false,"startBinding":null,"endBinding":null,"lastCommittedPoint":null,"startArrowhead":null,"endArrowhead":"arrow","points":[[0,0],[0,-113.60000610351562]]},{"type":"image","version":57,"versionNonce":724231238,"isDeleted":false,"id":"lktFjN5G","fillStyle":"hachure","strokeWidth":1,"strokeStyle":"solid","roughness":1,"opacity":100,"angle":0,"x":-98.199951171875,"y":-108.68750762939453,"strokeColor":"#000000","backgroundColor":"transparent","width":52,"height":18,"seed":78086,"groupIds":[],"strokeSharpness":"sharp","boundElements":[],"updated":1673061821325,"link":null,"locked":false,"status":"pending","fileId":"248b2a955055198ecbed8c7fe4a64ef88b71375b","scale":[1,1]},{"id":"dVXjuph7","type":"text","x":24.900054931640625,"y":-137.9656639099121,"width":165,"height":72,"angle":0,"strokeColor":"#000000","backgroundColor":"transparent","fillStyle":"hachure","strokeWidth":2,"strokeStyle":"solid","roughness":0,"opacity":100,"groupIds":[],"strokeSharpness":"sharp","seed":178635270,"version":76,"versionNonce":1535067142,"isDeleted":false,"boundElements":null,"updated":1673061856110,"link":null,"locked":false,"text":"At what t\nwill it be 10m\nabove?","rawText":"At what t\nwill it be 10m\nabove?","fontSize":20,"fontFamily":3,"textAlign":"left","verticalAlign":"top","baseline":67,"containerId":null,"originalText":"At what t\nwill it be 10m\nabove?"}],"appState":{"theme":"light","viewBackgroundColor":"#ffffff","currentItemStrokeColor":"#000000","currentItemBackgroundColor":"transparent","currentItemFillStyle":"hachure","currentItemStrokeWidth":2,"currentItemStrokeStyle":"solid","currentItemRoughness":0,"currentItemOpacity":100,"currentItemFontFamily":3,"currentItemFontSize":20,"currentItemTextAlign":"left","currentItemStrokeSharpness":"sharp","currentItemStartArrowhead":null,"currentItemEndArrowhead":"arrow","currentItemLinearStrokeSharpness":"round","gridSize":null,"colorPalette":{}},"files":{}};InitialData.scrollToContent=true;App=()=>{const e=React.useRef(null),t=React.useRef(null),[n,i]=React.useState({width:void 0,height:void 0});return React.useEffect(()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height});const e=()=>{i({width:t.current.getBoundingClientRect().width,height:t.current.getBoundingClientRect().height})};return window.addEventListener("resize",e),()=>window.removeEventListener("resize",e)},[t]),React.createElement(React.Fragment,null,React.createElement("div",{className:"excalidraw-wrapper",ref:t},React.createElement(ExcalidrawLib.Excalidraw,{ref:e,width:n.width,height:n.height,initialData:InitialData,viewModeEnabled:!0,zenModeEnabled:!0,gridModeEnabled:!1})))},excalidrawWrapper=document.getElementById("Kinematics_Examples_2023-01-06_1923.17.excalidraw.md2");ReactDOM.render(React.createElement(App),excalidrawWrapper);})();</script>
 
+```ad-check
+title:solution 😎
+collapse:
+$$
+\begin{align}
+\vec{x}(t) &= 10 m \, \hat{y} \\
+\vec{x}(t) - \vec{x}_{0} &= \vec{v}_{0} t + \frac{1}{2} \vec{a} t^{2} = + 10 m\hat{y} \\
+\color{gray}{\vec{a} = -10 m/s^{2}\hat{y}}\\
+20\,m\text{/}s \cdot\hat{y} & + \frac{1}{2}(-10 \text{m/s}^{2} \hat{y}) t^{2} = 10\text{m}\hat{y} \\
+&10\text{ m}\cdot\hat{y} - 20\,\text{m/s}\cdot\hat{y}\cdot t + 5 \text{m/s}^{2}\cdot t^{2} = 0 \\
+\end{align}
+$$
+now: [[Quadratic Formula]]
+$$
+\begin{align}
+\boxed{t= 2 \pm \sqrt{2} \text{ s}\approx 0.5\text{s}, 3.44\text{s}}
+\end{align}
+$$
+
+
+```
