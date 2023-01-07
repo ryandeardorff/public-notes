@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jacobian-based-contact-resolution/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/jacobian-based-contact-resolution/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
