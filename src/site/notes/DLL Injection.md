@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dll-injection/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/dll-injection/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #cs #modding 
