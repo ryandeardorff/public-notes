@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-not-to-do-products-in-integrals/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/how-not-to-do-products-in-integrals/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
