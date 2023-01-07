@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/connecting-reimann-sums-to-antiderivatives/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/connecting-reimann-sums-to-antiderivatives/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
