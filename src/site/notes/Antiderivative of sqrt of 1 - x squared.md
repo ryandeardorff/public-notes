@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/antiderivative-of-sqrt-of-1-x-squared/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/antiderivative-of-sqrt-of-1-x-squared/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
