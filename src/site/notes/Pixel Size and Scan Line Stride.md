@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/pixel-size-and-scan-line-stride/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/pixel-size-and-scan-line-stride/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #graphics 
