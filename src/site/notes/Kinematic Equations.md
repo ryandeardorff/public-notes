@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kinematic-equations/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/kinematic-equations/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #physics 
