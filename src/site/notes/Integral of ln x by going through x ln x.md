@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/integral-of-ln-x-by-going-through-x-ln-x/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/integral-of-ln-x-by-going-through-x-ln-x/","dgHomeLink":true,"dgPassFrontmatter":false,"dgShowLocalGraph":true}
 ---
 
 #math 
