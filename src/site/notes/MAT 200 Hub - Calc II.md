@@ -56,6 +56,13 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 			- [[Index Shifting Sums|Index Shifting Sums]] <- kinda similar to what we talked about, which was why we $-F(a)$ in [[The Fundamental Theorem of Calculus|The Fundamental Theorem of Calculus]]
 	- [[Differentials|Differentials]], [[The Derivative|The Derivative]]
 	- [[Infinitesimal|Infinitesimal]]
+- 1/9/23: U-Substitution
+	- Review: [[Integral of x to the negative 1|Integral of x to the negative 1]]
+	- [[C is a placeholder|C is a placeholder]]
+	- [[u-substitution (integrals)|u-substitution (integrals)]]
+	- [[Definite integrals and u-substitution|Definite integrals and u-substitution]]
+	- [[Swapping Definite Integral Range|Swapping Definite Integral Range]] $\leftarrow$ I'm blown away that I actually have a note on that lol
+	- [[MAT 200 Hub - Calc II|]]
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
