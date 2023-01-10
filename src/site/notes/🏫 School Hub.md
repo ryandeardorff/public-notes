@@ -21,7 +21,8 @@ ___
 * [[CS225 Hub|CS225 Hub]]
 
 ---
-- [[CS250 Hub|CS250 Hub]]
+- [[CS250 Hub - Graphics II|CS250 Hub - Graphics II]]
 - [[PHY200Lab Hub|PHY200Lab Hub]]
 - [[PHY200 Hub - Motion Dynamics|PHY200 Hub - Motion Dynamics]]
 - [[MAT 200 Hub - Calc II|MAT 200 Hub - Calc II]]
+- [[CS280 Hub|CS280 Hub]]
