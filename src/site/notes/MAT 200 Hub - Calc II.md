@@ -63,6 +63,35 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 	- [[Definite integrals and u-substitution|Definite integrals and u-substitution]]
 	- [[Swapping Definite Integral Range|Swapping Definite Integral Range]] $\leftarrow$ I'm blown away that I actually have a note on that lol
 	- [[MAT 200 Hub - Calc II|]]
+- 1/12/23: Back to Trig 🪖
+	- Review:
+		- [[The Unit Circle|The Unit Circle]]
+		- [[Sine Square plus Cosine Squared formula|Sine Square plus Cosine Squared formula]]
+		- [[Unit circle triangle with sec and tan|Unit circle triangle with sec and tan]]
+		- [[Tangent, Secant, Cotangent, and Cosecant|Tangent, Secant, Cotangent, and Cosecant]]
+		- [[Important Trig Identities|Important Trig Identities]]
+			- [[Tangent squared + 1|Tangent squared + 1]]
+			- [[Double Angle Formulas|Double Angle Formulas]]
+			- [[Power Reducing Formulas|Power Reducing Formulas]]
+		- [[Inverse Trig Functions|Inverse Trig Functions]]
+			- [[Why a inverse trig function within a trig function is bad|Why a inverse trig function within a trig function is bad]]
+		- [[Loop of Derivatives of Sine and Cosine|Loop of Derivatives of Sine and Cosine]]
+		- **[[Derivative of Sine|Derivative of Sine]]** $\leftarrow$ the important ones
+		- **[[Derivative of Cosine|Derivative of Cosine]]** $\leftarrow$ the important ones
+		- [[Derivative of Tangent|Derivative of Tangent]]
+		- [[Derivative of Secant|Derivative of Secant]]
+		- [[Derivative of Cotangent|Derivative of Cotangent]]
+		- [[Derivative of Cosecant|Derivative of Cosecant]]
+		- [[Pythagorean Theorem|Pythagorean Theorem]]
+	- [[Integral of Sine|Integral of Sine]]
+	- [[Integral of Cosine|Integral of Cosine]]
+	- [[Integrals of Trig Functions|Integrals of Trig Functions]]
+	- reminder: [[The Craziness that is Trig Functions that are the same but don't look the same|The Craziness that is Trig Functions that are the same but don't look the same]]
+- 1/17/23: 
+	- Review: 
+		- [[u-substitution (integrals)|u-substitution (integrals)]]
+		- [[Integrals of Trig Functions|Integrals of Trig Functions]] (and variations on this)
+		- 
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
