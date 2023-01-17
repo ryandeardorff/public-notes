@@ -14,6 +14,9 @@
 $$
 \int \sec^{2}\theta \, d\theta = \tan\theta + C
 $$
+
+^fa45d5
+
 From [[Derivative of Tangent|Derivative of Tangent]]
 
 ---
