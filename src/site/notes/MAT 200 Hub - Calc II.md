@@ -91,7 +91,7 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 	- Review: 
 		- [[u-substitution (integrals)|u-substitution (integrals)]]
 		- [[Integrals of Trig Functions|Integrals of Trig Functions]] (and variations on this)
-		- 
+		- [[Trickier Trig Integrals (solving even powered trig integrals using double angles)|Trickier Trig Integrals (solving even powered trig integrals using double angles)]]
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
