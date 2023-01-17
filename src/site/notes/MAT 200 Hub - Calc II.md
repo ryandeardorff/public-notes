@@ -90,7 +90,7 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 - 1/17/23: 
 	- Review: 
 		- [[u-substitution (integrals)|u-substitution (integrals)]]
-	- [[Integrals of Trig Functions|Integrals of Trig Functions]] (and variations on this)
+		- [[Integrals of Trig Functions|Integrals of Trig Functions]] (and variations on this)
 	- [[Trickier Trig Integrals (solving even powered trig integrals using double angles)|Trickier Trig Integrals (solving even powered trig integrals using double angles)]]
 		- This can get pretty crazy with stuff like $\int\sin^{2}\theta\cos^{2}\theta$, but it's all still the same general process
 	- [[Tangent Substitution (for solving trig integrals)|Tangent Substitution (for solving trig integrals)]]
