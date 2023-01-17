@@ -87,14 +87,14 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 	- [[Integral of Cosine|Integral of Cosine]]
 	- [[Integrals of Trig Functions|Integrals of Trig Functions]]
 	- reminder: [[The Craziness that is Trig Functions that are the same but don't look the same|The Craziness that is Trig Functions that are the same but don't look the same]]
-- 1/17/23: 
+- 1/17/23: Trigonometric Substitution
 	- Review: 
 		- [[u-substitution (integrals)|u-substitution (integrals)]]
 		- [[Integrals of Trig Functions|Integrals of Trig Functions]] (and variations on this)
 	- [[Trickier Trig Integrals (solving even powered trig integrals using double angles)|Trickier Trig Integrals (solving even powered trig integrals using double angles)]]
 		- This can get pretty crazy with stuff like $\int\sin^{2}\theta\cos^{2}\theta$, but it's all still the same general process
 	- [[Tangent Substitution (for solving trig integrals)|Tangent Substitution (for solving trig integrals)]]
-	- [[Trig functions appearing in non-trig integrals|Trig functions appearing in non-trig integrals]]
+	- [[Trigonometric Substitution (Trig functions appearing in non-trig integrals)|Trigonometric Substitution (Trig functions appearing in non-trig integrals)]]
 	- Mini Review: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]]
 
 ### Course Rundown:
