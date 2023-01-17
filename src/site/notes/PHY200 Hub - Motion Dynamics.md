@@ -41,7 +41,20 @@ Notes:
 		- [[Position by constant acceleration|Position by constant acceleration]]
 		- [[Velocity by constant acceleration|Velocity by constant acceleration]]
 		- [[Kinematics Examples|Kinematics Examples]]
-		- [[g measurement|g measurement]]
+		- [[g Measurement (Gravitational Acceleration)|g Measurement (Gravitational Acceleration)]]
+- 1/11/23:
+	- Review:
+		- [[Position|Position]]
+		- [[Velocity (Physics Def.)|Velocity (Physics Def.)]]
+		- [[Acceleration|Acceleration]]
+		- [[Derivatives and Integrals for Physics|Derivatives and Integrals for Physics]]
+		- [[Assumption that acceleration is constant|Assumption that acceleration is constant]]
+		- **[[Kinematic Equations|Kinematic Equations]]**
+		- [[g Measurement (Gravitational Acceleration)|g Measurement (Gravitational Acceleration)]]
+	- 
 
 Course Info:
 - Strongly recommended reading along with the course.
+- Exam times will happen during the Wednesday lecture time.
+- Tuesdays will be practice or quiz days.
+	- Quizzes will be open note, open textbook, all that.
