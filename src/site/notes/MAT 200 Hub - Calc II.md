@@ -94,8 +94,10 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 	- [[Trickier Trig Integrals (solving even powered trig integrals using double angles)|Trickier Trig Integrals (solving even powered trig integrals using double angles)]]
 		- This can get pretty crazy with stuff like $\int\sin^{2}\theta\cos^{2}\theta$, but it's all still the same general process
 	- [[Tangent Substitution (for solving trig integrals)|Tangent Substitution (for solving trig integrals)]]
-	- [[Trigonometric Substitution (Trig functions appearing in non-trig integrals)|Trigonometric Substitution (Trig functions appearing in non-trig integrals)]]
-	- Mini Review: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]]
+	- [[Intro to Trigonometric Substitution (Trig functions appearing in non-trig integrals)|Intro to Trigonometric Substitution (Trig functions appearing in non-trig integrals)]]
+		- Mini Review: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]]
+	- [[When to use Trig Substitution|When to use Trig Substitution]]
+	- [[Examples of Trig Substitution|Examples of Trig Substitution]]
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
