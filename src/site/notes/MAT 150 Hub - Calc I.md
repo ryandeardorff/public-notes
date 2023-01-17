@@ -120,7 +120,7 @@
 		* [[Derivative of Cotangent|Derivative of Cotangent]]
 		* [[Derivative of Secant|Derivative of Secant]]
 		* [[Derivative of Cosecant|Derivative of Cosecant]]
-	* [[Derivatives and Inverse Trig Functions|Derivatives and Inverse Trig Functions]]
+	* [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]]
 	* [[Hyperbolic Trigonometric Functions|Hyperbolic Trigonometric Functions]]
 * Day 11 (9/28/22): Limits and Indeterminates
 	* [[The Limit|The Limit]]
@@ -198,7 +198,7 @@
 					* [[Derivative of Secant|Derivative of Secant]]
 					* [[Derivative of Cosecant|Derivative of Cosecant]]
 				* Will not ask about: [[Hyperbolic Trigonometric Functions|Hyperbolic Trigonometric Functions]]
-				* **Will** ask about: [[Derivatives and Inverse Trig Functions|Derivatives and Inverse Trig Functions]] -- at least know the theory to get there.
+				* **Will** ask about: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]] -- at least know the theory to get there.
 		* [[Estimations With Derivatives|Estimations With Derivatives]]
 		* [[Tangent Line|Tangent Line]]
 		* [[Second Order Approximation|Second Order Approximation]]
@@ -342,7 +342,7 @@
 		- [[Derivative of Sine|Derivative of Sine]], [[Derivative of Cosine|Derivative of Cosine]]
 		- [[Exponentials and Derivatives (derivative of e to the x)|Exponentials and Derivatives (derivative of e to the x)]]
 		- [[Implicit Differentiation|Implicit Differentiation]] $\leftarrow$ careful with stuff like $d(y^{2}) = 2yy'$, that $y'$ is important!
-		- **[[Derivatives and Inverse Trig Functions|Derivatives and Inverse Trig Functions]]** -- obscure, but could be on final!
+		- **[[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]]** -- obscure, but could be on final!
 		- [[Derivative of Tangent|Derivative of Tangent]] $\leftarrow$ maybe put this one in the notes, can solve it using $\sin$ and $\cos$, but this'd be faster.
 		- [[Natural Log of 1|Natural Log of 1]] $\leftarrow$ maybe put this in notes, just in case, should memorize as well, it's very useful.
 		- [[Ratio Test for Convergence|Ratio Test for Convergence]]
