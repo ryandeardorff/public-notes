@@ -3,12 +3,12 @@
 ---
 
 #math 
-> [[MAT 200 Hub - Calc II|MAT 200 Hub - Calc II]]
+> [[MAT 200 Hub - Calc II|MAT 200 Hub - Calc II]] ,[[Integrals of Trig Functions|Integrals of Trig Functions]], [[Double Angle Formulas|Double Angle Formulas]]
 
 $$
 \int \sin^{2}\theta \, d\theta
 $$
-It's an even power...
+It's an even power... Uh oh.
 
 # The problem with it:
 We could try our usual [[u-substitution (integrals)|u-substitution (integrals)]] tricks, but it's not great:
