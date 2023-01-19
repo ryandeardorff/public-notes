@@ -5,7 +5,7 @@
 #math 
 > [[MAT 200 Hub - Calc II|MAT 200 Hub - Calc II]], [[Intro to Trigonometric Substitution (Trig functions appearing in non-trig integrals)|Intro to Trigonometric Substitution (Trig functions appearing in non-trig integrals)]], [[When to use Trig Substitution|When to use Trig Substitution]]
 
-###
+### 1
 $$
 \begin{align}
 &\int \frac{x^{2}}{(1-x^{2})^{\frac{3}{2}}} \, dx \\ \\
@@ -40,6 +40,33 @@ $$
 x=\sin\theta \\
 \theta = \arcsin x \\ 
 &= \boxed{\frac{x}{\sqrt{1-x^{2}}} - \arcsin(x) + C}
+\end{align}
+$$
+
+```
+
+### 2
+$$
+\int \frac{1}{1+2x^{2}} \, dx
+$$
+
+```ad-check
+title: Solution
+collapse:
+We want to use the identity [[Tangent squared + 1]]:
+
+$1+ \tan^{2}\theta = \sec^{2}\theta$
+
+which will get us the substitution:
+
+$x= \frac{1}{\sqrt{2}} \tan\theta$
+
+After a bunch of algebra:
+$$
+\begin{align}
+&\frac{1}{\sqrt2} \int \, d\theta\\
+&= \frac{1}{\sqrt2}\theta + C \\
+&= \boxed{\frac{1}{\sqrt2}\arctan\sqrt2 x + C}
 \end{align}
 $$
 
