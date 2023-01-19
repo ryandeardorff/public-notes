@@ -10,6 +10,9 @@ $$
 \text{Force}:\vec{F}
 $$
 
+An action that can change the motion of an object.
+*This is intentionally vague.*
+
 [[Newton's Second Law of Motion|Newton's Second Law of Motion]] states:
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
