@@ -106,7 +106,7 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 		- [[When to use Trig Substitution|When to use Trig Substitution]]
 	- [[Examples of Trig Substitution|Examples of Trig Substitution]]
 	- Mini Review: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]] (it was a side note)
-	- 
+	- [[Trig Substitution Without the 1|Trig Substitution Without the 1]]
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
