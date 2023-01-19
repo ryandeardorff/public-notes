@@ -107,6 +107,8 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 	- [[Examples of Trig Substitution|Examples of Trig Substitution]]
 	- Mini Review: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]] (it was a side note)
 	- [[Trig Substitution Without the 1|Trig Substitution Without the 1]]
+	- Mini Review: [[Trickier Trig Integrals (solving even powered trig integrals using double angles)|Trickier Trig Integrals (solving even powered trig integrals using double angles)]]
+	- **Review: [[Completing the Square|Completing the Square]] <- I need to review this w/ online resources** 
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
