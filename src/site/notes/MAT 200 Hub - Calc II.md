@@ -98,6 +98,15 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 		- Mini Review: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]]
 	- [[When to use Trig Substitution|When to use Trig Substitution]]
 	- [[Examples of Trig Substitution|Examples of Trig Substitution]]
+- 1/19/23:
+	- Review:
+		- [[Sine Square plus Cosine Squared formula|Sine Square plus Cosine Squared formula]]
+		- [[Tangent squared + 1|Tangent squared + 1]]
+		- [[Important Trig Identities|Important Trig Identities]]
+		- [[When to use Trig Substitution|When to use Trig Substitution]]
+	- [[Examples of Trig Substitution|Examples of Trig Substitution]]
+	- Mini Review: [[Derivatives of Inverse Trig Functions|Derivatives of Inverse Trig Functions]] (it was a side note)
+	- 
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
