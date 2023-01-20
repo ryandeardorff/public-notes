@@ -66,7 +66,7 @@ Notes:
 		- [[Moving between reference frames for relative velocity|Moving between reference frames for relative velocity]]
 		- [[Limitations of Relative velocity|Limitations of Relative velocity]]
 	- Circular Motion
-		- [[Tangential Acceleration|Tangential Acceleration]]
+		- [[Tangential Acceleration and Velocity|Tangential Acceleration and Velocity]]
 		- [[Centripetal Acceleration|Centripetal Acceleration]]
 	- [[Force|Force]]
 		- [[Weight|Weight]]
@@ -76,6 +76,26 @@ Notes:
 			- [[Weight Force|Weight Force]]
 			- [[Elastic Force|Elastic Force]]
 			- [[Friction Force|Friction Force]]
+- 1/19/23:
+	- Review:
+		- [[Tangential Acceleration and Velocity|Tangential Acceleration and Velocity]]
+		- [[Centripetal Acceleration|Centripetal Acceleration]]
+		- [[Force|Force]]
+			- [[Notating Forces|Notating Forces]]
+			- [[Weight Force|Weight Force]]
+			- [[Normal Force|Normal Force]]
+			- [[Drag Force|Drag Force]]
+			- [[Friction Force|Friction Force]]
+	- [[Weight Force|Weight Force]] -- expanded on this
+		- [[Mass|Mass]]
+		- [[Newtons|Newtons]]
+	- [[Normal Force|Normal Force]]
+	- [[Newton's Second Law of Motion|Newton's Second Law of Motion]]
+	- [[Stacking Objects and Forces|Stacking Objects and Forces]]
+	- [[Newton's Laws of Motion|Newton's Laws of Motion]]
+		- [[Newton's First Law of Motion|Newton's First Law of Motion]]
+		- [[Newton's Second Law of Motion|Newton's Second Law of Motion]]
+		- [[Newton's Third Law of Motion|Newton's Third Law of Motion]]
 
 Course Info:
 - Strongly recommended reading along with the course.
