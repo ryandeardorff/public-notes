@@ -4,7 +4,7 @@
 
 #physics 
 
-> [[Game Physics Research Hub|Game Physics Research Hub]]
+> [[Game Physics Research Hub|Game Physics Research Hub]], [[PHY200 Hub - Motion Dynamics|PHY200 Hub - Motion Dynamics]]
 
 $$
 \text{Force}:\vec{F}
@@ -12,6 +12,14 @@ $$
 
 An action that can change the motion of an object.
 *This is intentionally vague.*
+
+Also note:
+[[Notating Forces|Notating Forces]]
+
+It is often measured in:
+[[Newtons|Newtons]]
+
+---
 
 [[Newton's Second Law of Motion|Newton's Second Law of Motion]] states:
 
