@@ -95,8 +95,9 @@ Notes:
 	- [[Newton's Laws of Motion|Newton's Laws of Motion]]
 		- [[Newton's First Law of Motion|Newton's First Law of Motion]]
 		- [[Newton's Second Law of Motion|Newton's Second Law of Motion]]
-			- [[Momentum|Momentum]]
+			- (We'll come back to this): [[Momentum|Momentum]]
 		- [[Newton's Third Law of Motion|Newton's Third Law of Motion]]
+			- [[Relating Newton's Third Law to Forces|Relating Newton's Third Law to Forces]]
 
 Course Info:
 - Strongly recommended reading along with the course.
