@@ -62,7 +62,6 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 	- [[u-substitution (integrals)|u-substitution (integrals)]]
 	- [[Definite integrals and u-substitution|Definite integrals and u-substitution]]
 	- [[Swapping Definite Integral Range|Swapping Definite Integral Range]] $\leftarrow$ I'm blown away that I actually have a note on that lol
-	- [[MAT 200 Hub - Calc II|]]
 - 1/12/23: Back to Trig 🪖
 	- Review:
 		- [[The Unit Circle|The Unit Circle]]
@@ -109,7 +108,43 @@ it's just [[Intro to the Antiderivative|the antiderivative]]. [[Finding Antideri
 	- [[Trig Substitution Without the 1|Trig Substitution Without the 1]]
 	- Mini Review: [[Trickier Trig Integrals (solving even powered trig integrals using double angles)|Trickier Trig Integrals (solving even powered trig integrals using double angles)]]
 	- **Review: [[Completing the Square|Completing the Square]] $\leftarrow$ I need to review this w/ online resources** 
-	- 
+- 1/23/23:
+	- Review:
+		- [[Important Trig Identities|Important Trig Identities]]
+	- [[Dead end trig sub|Dead end trig sub]]
+	- [[Funky e to the x integrals|Funky e to the x integrals]]
+	- [[Integration by Parts|Integration by Parts]]
+- 1/26/23:
+	- Back to [[Integration by Parts|Integration by Parts]]
+		- [[Stepladder- Integration by Parts Examples|Stepladder- Integration by Parts Examples]]
+		- [[dv of 1 for non obvious cases - Integration by Parts Example|dv of 1 for non obvious cases - Integration by Parts Example]]
+		- [[Lesser of 2 evils - Integration by Parts Example|Lesser of 2 evils - Integration by Parts Example]]
+		- *We did integral of $\arctan(x)$ but it went by too fast to get good notes on it* $\leftarrow$ **Might want to research this later**, one approach was to involve something like [[dv of 1 for non obvious cases - Integration by Parts Example|dv of 1 for non obvious cases - Integration by Parts Example]]
+- 1/30/23:
+	- [[Method of Undetermined Coefficients|Method of Undetermined Coefficients]]
+	- [[Reimagining Integration by parts graphically|Reimagining Integration by parts graphically]]
+	- [[Integration by parts resulting in the same integral|Integration by parts resulting in the same integral]]
+	- Back to [[Hyperbolic Trigonometric Functions|Hyperbolic Trigonometric Functions]], just know that there are *Hyperbolic Trig substitutions* that we (thank goodness) don't need to do. It's also often not too bad to substitute in the equivalent $e^{x}\dots$ related stuff for these.
+	- [[Second Integration by Parts accidentally going backwards|Second Integration by Parts accidentally going backwards]]
+	- [[Connection between imaginary numbers and trig functions|Connection between imaginary numbers and trig functions]]
+	- [[Using imaginary numbers to simplify integration by parts with trig|Using imaginary numbers to simplify integration by parts with trig]]
+	- [[Denominators and Complex numbers|Denominators and Complex numbers]]
+- 2/2/23: Partial Fractions
+	- [[Rational Functions|Rational Functions]]
+	- [[Degree of a polynomial|Degree of a polynomial]]
+	- [[Degree of a rational function|Degree of a rational function]]
+	- Review: [[Integral of x to the negative 1|Integral of x to the negative 1]], [[u-substitution (integrals)|u-substitution (integrals)]]
+	- [[Integration rational functions by doing polynomial division first|Integration rational functions by doing polynomial division first]]
+	- Review: [[Polynomial Division|Polynomial Division]]
+	- [[Options for doing either a trig sub or a substitution getting more polynomials|Options for doing either a trig sub or a substitution getting more polynomials]]
+	- [[Factorable denominators in integrals|Factorable denominators in integrals]]
+	- [[Partial Fractions|Partial Fractions]]
+	- remember [[Method of Undetermined Coefficients|Method of Undetermined Coefficients]]
+- 2/6/23:
+	- Review [[Partial Fractions|Partial Fractions]]
+	- [[Methods of Partial Fraction Decomposition|Methods of Partial Fraction Decomposition]]
+	- [[Degrees of Freedom|Degrees of Freedom]]
+	- [[Partial Fraction Decomposition when the denominator can't factor|Partial Fraction Decomposition when the denominator can't factor]]
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
