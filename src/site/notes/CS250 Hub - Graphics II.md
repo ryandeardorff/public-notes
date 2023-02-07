@@ -30,7 +30,7 @@ Notes:
 - 1/10/23:
 	- [[Orientation of Triangles (normal vector)|Orientation of Triangles (normal vector)]]
 	- [[Counterclockwise Wind|Counterclockwise Wind]]
-	- [[Observing Front or Back face of Triangle (Backface Culling-- maybe)|Observing Front or Back face of Triangle (Backface Culling-- maybe)]]
+	- [[Observing Front or Back face of Triangle (Backface Culling)|Observing Front or Back face of Triangle (Backface Culling)]]
 	- [[Triangular 3D Meshes|Triangular 3D Meshes]]
 	- [[Flat Shading Model|Flat Shading Model]]
 	- [[Smooth Shading Model|Smooth Shading Model]]
@@ -48,7 +48,32 @@ Notes:
 		- [[Near Plane|Near Plane]]
 		- [[Far Plane|Far Plane]]
 		- [[View Frustum (View Volume)|View Frustum (View Volume)]]
-	- [[Specifying Camera Orientation|Specifying Camera Orientation]]
+		- [[Specifying Camera Orientation|Specifying Camera Orientation]]
+- 1/24/23:
+	- Review:
+		- [[3D Camera Model|3D Camera Model]]
+	- [[Specifying Camera Geometry|Specifying Camera Geometry]]
+	- [[Determining View Frustum Geometry|Determining View Frustum Geometry]]
+	- [[Camera Space|Camera Space]]
+		- [[A Canonical Camera|A Canonical Camera]]
+- 1/27/23:
+	- Review:
+		- [[3D Camera Model|3D Camera Model]]
+	- [[Camera to World Transformation|Camera to World Transformation]] (added 3D)
+	- [[Viewing Transformation (World-to-Camera)|Viewing Transformation (World-to-Camera)]] (added 3D)
+		- [[Comment about the linear part of a camera transformation|Comment about the linear part of a camera transformation]]
+	- [[Simple Perspective Projection (Graphics)|Simple Perspective Projection (Graphics)]]
+- 1/31/23:
+	- [[Canonical Perspective Projection|Canonical Perspective Projection]]
+	- [[Camera to NDC Transform|Camera to NDC Transform]] (Added 3D)
+	- [[Combined Perspective and Device Transformation|Combined Perspective and Device Transformation]]
+		- [[Observing Front or Back face of Triangle (Backface Culling)|Observing Front or Back face of Triangle (Backface Culling)]]
+		- [[Solving the problem of depth information|Solving the problem of depth information]]
+- 2/7/23:
+	- Review: [[Combined Perspective and Device Transformation|Combined Perspective and Device Transformation]]
+	- [[Preserving Depth when doing 3D Perspective|Preserving Depth when doing 3D Perspective]]
+	- [[Clip Coordinates|Clip Coordinates]]
+	- 
 
 Course Outline:
 - **Week 1:** Review of 3D affine geometry: cross product, rotations. 
