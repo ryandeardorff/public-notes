@@ -6,14 +6,14 @@
 > [[PHY200 Hub - Motion Dynamics|PHY200 Hub - Motion Dynamics]], [[Force|Force]]
 
 $$
-\vec{F},\vec{F}_{k}, F_\mu
+\vec{F_{s}},\vec{F}_{k}, F_\mu
 $$
 
 $$
-F = \mu_{k}N
+F_{k} = \mu_{k}N
 $$
 $$
-F\le \mu_{s} N
+F_{s} \le \mu_{s} N
 $$
 
 
