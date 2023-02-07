@@ -4,7 +4,7 @@
 
 #hub #cs #math #physics
 
-> [[GAM200 Hub|GAM200 Hub]]
+> [[GAM200-250 Hub|GAM200-250 Hub]]
 
 - Key Terms:
 	- [[Velocity|Velocity]]
