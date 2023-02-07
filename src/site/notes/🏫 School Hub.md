@@ -17,7 +17,7 @@ ___
 ___
 * [[MAT 150 Hub - Calc I|MAT 150 Hub - Calc I]]
 * [[CS200 Hub - Computer Graphics I|CS200 Hub - Computer Graphics I]]
-* [[GAM200 Hub|GAM200 Hub]]
+* [[GAM200-250 Hub|GAM200-250 Hub]]
 * [[CS225 Hub|CS225 Hub]]
 
 ---
