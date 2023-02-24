@@ -8,7 +8,7 @@
 $$
 \int x^{n} dx = \frac{1}{n+1} x^{n+1} + C
 $$
-Where $n \ne 1$.
+Where $n \ne -1$.
 
 The $x$ term must match the [[Differentials|differential]]:
 $$
