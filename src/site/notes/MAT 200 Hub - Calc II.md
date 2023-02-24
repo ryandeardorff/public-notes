@@ -113,6 +113,33 @@
 	- [[Methods of Partial Fraction Decomposition|Methods of Partial Fraction Decomposition]]
 	- [[Degrees of Freedom|Degrees of Freedom]]
 	- [[Partial Fraction Decomposition when the denominator can't factor|Partial Fraction Decomposition when the denominator can't factor]]
+- 2/9/23:
+	- [[Solving squares in partial fraction denominators|Solving squares in partial fraction denominators]]
+- 2/22/23: Applications of Integrals
+	- [[Applications of Integrals|Applications of Integrals]]
+		- Review:
+			- [[Riemann Sums|Riemann Sums]]
+			- [[Piecewise Integral Problems|Piecewise Integral Problems]]
+			- [[Splitting Definite Integrals|Splitting Definite Integrals]]
+		- [[Average Values with Integrals|Average Values with Integrals]]
+		- [[Center of Mass with Integrals|Center of Mass with Integrals]]
+			- [[First moment of f(x) around x=c|First moment of f(x) around x=c]]
+		- Back to: [[Arc Length with Calculus|Arc Length with Calculus]] (Returning to this later)
+	- Return of [[Integration by Parts|Integration by Parts]]: [[Reimagining Integration by parts graphically|Reimagining Integration by parts graphically]] 
+	  in terms of [[Divvying Up Area by doing sums horizontally|Divvying Up Area by doing sums horizontally]].
+- 2/23/23: Applications of Integrals
+	- Review: [[Parametric Functions|Parametric Functions]]
+	- Back to: [[Parametric Equations and Calculus|Parametric Equations and Calculus]]
+	- Review: [[Swapping Definite Integral Range|Swapping Definite Integral Range]]
+	- Back to: [[Cycloid|Cycloid]]
+	- Review: [[Cycloid with Calculus|Cycloid with Calculus]]
+	- [[Integral of a Cycloid|Integral of a Cycloid]] (Example of [[Parametric Equations and Calculus|Parametric Equations and Calculus]])
+	- Back to: [[Arc Length with Calculus|Arc Length with Calculus]]
+	- Back to: [[Formula for Arc Length|Formula for Arc Length]]
+	- [[Integral of Secant Cubed|Integral of Secant Cubed]] (won't be on a test, but good for notes)
+	- Back to: [[Volumes with Integrals|Volumes with Integrals]]
+		- [[Volume Using the Disc Method|Volume Using the Disc Method]]
+		- [[Volume Using the Shell Method|Volume Using the Shell Method]]
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
