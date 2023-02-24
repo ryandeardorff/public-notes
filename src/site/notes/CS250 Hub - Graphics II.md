@@ -73,7 +73,28 @@ Notes:
 	- Review: [[Combined Perspective and Device Transformation|Combined Perspective and Device Transformation]]
 	- [[Preserving Depth when doing 3D Perspective|Preserving Depth when doing 3D Perspective]]
 	- [[Clip Coordinates|Clip Coordinates]]
-	- 
+- 2/10/23:
+	- Review: [[Preserving Depth when doing 3D Perspective|Preserving Depth when doing 3D Perspective]]
+	- [[3D Viewing Sequence|3D Viewing Sequence]]
+	- Review: [[Clip Coordinates|Clip Coordinates]]
+- 2/21/23:
+	- Reviewed over midterm.
+	- [[Lighting|Lighting]]
+		- [[Lighting Geometry|Lighting Geometry]]
+		- [[Diffuse Reflection|Diffuse Reflection]]
+			- [[Diffuse Reflection Model|Diffuse Reflection Model]]
+		- [[Specular Reflection|Specular Reflection]]
+		- [[Phong Specular Reflection Model|Phong Specular Reflection Model]]
+- 2/24/23:
+	- Review: [[Diffuse Reflection|Diffuse Reflection]]
+	- Review: [[Diffuse Reflection Model|Diffuse Reflection Model]]
+	- Review: [[Specular Reflection|Specular Reflection]]
+	- Back to: [[Phong Specular Reflection Model|Phong Specular Reflection Model]]
+	- [[Phong Lighting Model|Phong Lighting Model]]
+
+Midterm Review:
+- [[Normal Transformation Matrix (Surface Normals and Modeling transformations)|Normal Transformation Matrix (Surface Normals and Modeling transformations)]]
+- [[Clip Coordinates|Clip Coordinates]]
 
 Course Outline:
 - **Week 1:** Review of 3D affine geometry: cross product, rotations. 
