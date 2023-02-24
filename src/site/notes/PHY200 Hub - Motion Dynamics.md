@@ -109,6 +109,40 @@ Notes:
 		- [[Terminal Velocity|Terminal Velocity]]
 - 2/1/23:
 	- [[Projectile Motion with Drag|Projectile Motion with Drag]]
+- 2/8/23:
+	- [[Work|Work]]
+	- Review: [[The Dot Product|The Dot Product]], [[The Cross Product|The Cross Product]]
+	- [[Work in terms of mass and velocity |Work in terms of mass and velocity ]]
+		- [[Kinetic Energy|Kinetic Energy]]
+  - 2/10/23:
+	  - Review: [[Work|Work]]
+	  - [[Work and Kinetic Energy|Work and Kinetic Energy]]
+	  - [[Work as an Integral|Work as an Integral]]
+	  - [[How work behaves in a typical motion|How work behaves in a typical motion]]
+	  - [[Work done by elastic force|Work done by elastic force]]
+	  - [[Energy|Energy]]
+	  - [[Atmosphere Measurement|Atmosphere Measurement]]
+- 
+
+Other Notes:
+- [[Solving Side-Angle-Side Triangles (SAS)|Solving Side-Angle-Side Triangles (SAS)]]
+
+Midterm Review (on board):
+- [[Acceleration|Acceleration]]
+- [[Velocity (Physics Def.)|Velocity (Physics Def.)]]
+- [[Assumption that acceleration is constant|Assumption that acceleration is constant]]
+- [[Kinematic Equations|Kinematic Equations]]
+- [[Newton's Second Law of Motion|Newton's Second Law of Motion]] ([[Net Force|Net Force]])
+- [[Relating Newton's Third Law to Forces|Relating Newton's Third Law to Forces]]
+- [[Normal Force|Normal Force]]
+- [[Tension Force|Tension Force]]
+- [[Elastic Force|Elastic Force]]
+- [[Drag Force|Drag Force]]
+- [[Friction Force|Friction Force]]
+- [[Drag Coefficient|Drag Coefficient]]
+- [[Weight Force|Weight Force]]
+- [[Projectile Motion with Drag|Projectile Motion with Drag]]
+- [[Centripetal Acceleration|Centripetal Acceleration]]
 
 Course Info:
 - Strongly recommended reading along with the course.
