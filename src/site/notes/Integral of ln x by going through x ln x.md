@@ -25,5 +25,5 @@ $$
 Look at that!
 
 $$
-\int \ln x \ dx =  \ln x - x + C
+\int \ln x \ dx =  x\ln x - x + C
 $$
