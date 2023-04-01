@@ -91,6 +91,31 @@ Notes:
 	- Review: [[Specular Reflection|Specular Reflection]]
 	- Back to: [[Phong Specular Reflection Model|Phong Specular Reflection Model]]
 	- [[Phong Lighting Model|Phong Lighting Model]]
+- 2/28/23:
+	- Review: [[Phong Lighting Model|Phong Lighting Model]]
+	- [[Local and Global Illumination|Local and Global Illumination]]
+	- [[Multiple Lights|Multiple Lights]]
+- 3/3/23:
+	- [[Depth Buffer (z-buffer)|Depth Buffer (z-buffer)]]
+	- Review: [[Preserving Depth when doing 3D Perspective|Preserving Depth when doing 3D Perspective]]
+	- [[How the depth buffer is used|How the depth buffer is used]]
+	- [[Plane Method of linear interpolation|Plane Method of linear interpolation]]
+	- Review: [[Barycentric Coordinates|Barycentric Coordinates]], [[Barycentric Coordinates with 3 Points|Barycentric Coordinates with 3 Points]], [[Interpolating Triangle Vertex Attributes using Barycentric Coordinates|Interpolating Triangle Vertex Attributes using Barycentric Coordinates]], [[Triangle Rasterization (Point Containment Algorithm)|Triangle Rasterization (Point Containment Algorithm)]]
+- 3/7/23:
+	- Review: [[Barycentric Coordinates|Barycentric Coordinates]]
+	- Review: [[Finding Barycentric Functions|Finding Barycentric Functions]]
+	- Review: [[Plane Method of linear interpolation|Plane Method of linear interpolation]]
+	- [[Why linear interpolation is wrong in perspective|Why linear interpolation is wrong in perspective]]
+- 3/10/23:
+	- [[Perspective correct (hyperbolic) interpolation (on a line)|Perspective correct (hyperbolic) interpolation (on a line)]]
+		- [[Parameter Warping Formula|Parameter Warping Formula]]
+	- [[Perspective (hyperbolic) Interpolation on a Triangle|Perspective (hyperbolic) Interpolation on a Triangle]]
+		- [[Barycentric Coordinate Warping Formula|Barycentric Coordinate Warping Formula]]
+- 3/14/23:
+	- Review: [[Parameter Warping Formula|Parameter Warping Formula]]
+	- Review: [[Perspective correct (hyperbolic) interpolation (on a line)|Perspective correct (hyperbolic) interpolation (on a line)]]
+	- Review: [[Barycentric Coordinate Warping Formula|Barycentric Coordinate Warping Formula]]
+	- Review: [[Why linear interpolation is wrong in perspective|Why linear interpolation is wrong in perspective]]
 
 Midterm Review:
 - [[Normal Transformation Matrix (Surface Normals and Modeling transformations)|Normal Transformation Matrix (Surface Normals and Modeling transformations)]]
