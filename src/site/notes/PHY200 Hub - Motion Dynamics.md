@@ -122,7 +122,36 @@ Notes:
 	  - [[Work done by elastic force|Work done by elastic force]]
 	  - [[Energy|Energy]]
 	  - [[Atmosphere Measurement|Atmosphere Measurement]]
-- 
+- 2/17/23:
+	- [[Potential Energy|Potential Energy]]
+	- [[Conservative and Non-Conservative Forces|Conservative and Non-Conservative Forces]]
+	- [[Gravitational Potential Energy|Gravitational Potential Energy]]
+	- [[Dissipated Energy|Dissipated Energy]]
+	- [[Energy over Time|Energy over Time]]
+		- [[Power|Power]]
+		- [[Watts|Watts]]
+- 3/1/23:
+	- [[Momentum|Momentum]]
+		- [[Newton Seconds|Newton Seconds]]
+	- [[Impulse in Physics|Impulse in Physics]]
+	- [[Conservation of Momentum|Conservation of Momentum]]
+- 3/3/23:
+	- Review: [[Momentum|Momentum]], [[Conservation of Momentum|Conservation of Momentum]], [[Derivatives and Integrals for Physics|Derivatives and Integrals for Physics]], [[Impulse in Physics|Impulse in Physics]]
+	- [[Elastic Collisions|Elastic Collisions]]
+	- [[Inelastic Collisions|Inelastic Collisions]]
+- 3/8/23:
+	- Review: [[Elastic Collisions|Elastic Collisions]]
+	- [[Solving Elastic Collisions|Solving Elastic Collisions]]
+	- [[Solving 2D+ Collisions|Solving 2D+ Collisions]]
+- 3/10/23:
+	- Cont'd: [[Solving 2D+ Collisions|Solving 2D+ Collisions]]
+	- [[Ratios of Velocities post-collision|Ratios of Velocities post-collision]]
+
+Next Quiz (beginning of march):
+- Motion with constant acceleration in 2 directions
+
+**Note to self BEFORE FINAL**;
+- I need to look into velocity-dependent forces again-- they're annoying as all hell.
 
 Other Notes:
 - [[Solving Side-Angle-Side Triangles (SAS)|Solving Side-Angle-Side Triangles (SAS)]]
