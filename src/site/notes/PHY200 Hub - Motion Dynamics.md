@@ -124,6 +124,7 @@ Notes:
 	  - [[Atmosphere Measurement|Atmosphere Measurement]]
 - 2/17/23:
 	- [[Potential Energy|Potential Energy]]
+		- [[Elastic Potential Energy|Elastic Potential Energy]] <- added not from class!
 	- [[Conservative and Non-Conservative Forces|Conservative and Non-Conservative Forces]]
 	- [[Gravitational Potential Energy|Gravitational Potential Energy]]
 	- [[Dissipated Energy|Dissipated Energy]]
@@ -146,6 +147,10 @@ Notes:
 - 3/10/23:
 	- Cont'd: [[Solving 2D+ Collisions|Solving 2D+ Collisions]]
 	- [[Ratios of Velocities post-collision|Ratios of Velocities post-collision]]
+- 3/17/23:
+	- [[Center of Mass|Center of Mass]]
+	- [[Movement and Center of Mass|Movement and Center of Mass]]
+	- [[Body Forces vs Surface Forces|Body Forces vs Surface Forces]]
 
 Next Quiz (beginning of march):
 - Motion with constant acceleration in 2 directions
