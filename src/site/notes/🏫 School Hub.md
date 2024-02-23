@@ -26,3 +26,14 @@ ___
 - [[PHY200 Hub - Motion Dynamics|PHY200 Hub - Motion Dynamics]]
 - [[MAT 200 Hub - Calc II|MAT 200 Hub - Calc II]]
 - [[CS280 Hub|CS280 Hub]]
+
+---
+- [[MAT 250 Hub - Linear Algebra|MAT 250 Hub - Linear Algebra]]
+- [[PHY250 Hub - Waves and Thermodynamics|PHY250 Hub - Waves and Thermodynamics]]
+- [[CS300 Hub - Advanced Computer Graphics I|CS300 Hub - Advanced Computer Graphics I]]
+- [[CS260 Hub - Computer Networks I|CS260 Hub - Computer Networks I]]
+- [[CS330 Hub - Algorithms|CS330 Hub - Algorithms]]
+
+---
+- [[MAT 258 Hub - Discrete Mathematics|MAT 258 Hub - Discrete Mathematics]]
+- [[CS350 Hub - Graphics|CS350 Hub - Graphics]]
