@@ -116,10 +116,24 @@ Notes:
 	- Review: [[Perspective correct (hyperbolic) interpolation (on a line)|Perspective correct (hyperbolic) interpolation (on a line)]]
 	- Review: [[Barycentric Coordinate Warping Formula|Barycentric Coordinate Warping Formula]]
 	- Review: [[Why linear interpolation is wrong in perspective|Why linear interpolation is wrong in perspective]]
+- 4/4/23:
+	- [[Clipping Geometry|Clipping Geometry]]
+		- [[Half-Spaces|Half-Spaces]]
 
 Midterm Review:
 - [[Normal Transformation Matrix (Surface Normals and Modeling transformations)|Normal Transformation Matrix (Surface Normals and Modeling transformations)]]
 - [[Clip Coordinates|Clip Coordinates]]
+
+Final Review:
+- [[Counterclockwise Wind|Counterclockwise Wind]], [[Observing Front or Back face of Triangle (Backface Culling)|Observing Front or Back face of Triangle (Backface Culling)]]
+- [[Clip Coordinates|Clip Coordinates]] <- in particular the properties
+- Slight review of [[Phong Lighting Model|Phong Lighting Model]] (formula will be given)
+- Slight review of [[How the depth buffer is used|How the depth buffer is used]]
+- [[Planar Method for Barycentrics|Planar Method for Barycentrics]] < -- see about talking with casey on this! It's something I failed to do on lab #9
+- [[Barycentric Coordinate Warping Formula|Barycentric Coordinate Warping Formula]] < -- these formulas are provided in a different form
+- [[Parameter Warping Formula|Parameter Warping Formula]] < -- 
+- [[Half-Spaces|Half-Spaces]]
+Labs 10-12 need thorough review.
 
 Course Outline:
 - **Week 1:** Review of 3D affine geometry: cross product, rotations. 
