@@ -211,14 +211,48 @@
 	- Review: [[First order differential equations|First order differential equations]], [[Separable Differential Equations|Separable Differential Equations]]
 	- Review: [[Informal method for solving linear differential equations|Informal method for solving linear differential equations]]
 	- There was a section on using the [[Integrating Factor|Integrating Factor]], but couldn't quite get great notes on it.
-- 3/30/23:
-	- //TODO:
+- 3/30/23: 2nd Order Differential Equations
+	- For this course we will only consider 2nd order differential equations of the following format:
+		- Linear ([[Linear differential equations|Linear differential equations]])
+		- Constant Coefficients 
+		- Homogeneous (for now) ([[Homogeneous differential equations|Homogeneous differential equations]])
+	- Re: [[Linear differential equations|Linear differential equations]]
+	- Re: [[Homogeneous differential equations|Homogeneous differential equations]]
+	- Why not 3rd order, physics connection: [[Connecting the Derivate to Physics|Connecting the Derivate to Physics]], [[Why second order derivatives are useful for physics|Why second order derivatives are useful for physics]]
+	- [[Second Order derivatives who equal themselves|Second Order derivatives who equal themselves]]
+	- [[Simple second order differential with a constant in front of y|Simple second order differential with a constant in front of y]]
+	- [[General Solution to homogeneous second order differential equations with constant coefficients|General Solution to homogeneous second order differential equations with constant coefficients]]
+		- [[Characteristic Equation|Characteristic Equation]]
+		- [[Using the Characteristic Equation|Using the Characteristic Equation]]
+	- [[Solving for a specific solution with second order differential equations|Solving for a specific solution with second order differential equations]]
+	- [[Sine and Cosine General Form of homogeneous second order differential equations with constant coefficients|Sine and Cosine General Form of homogeneous second order differential equations with constant coefficients]]
+	- [[Solving a Second order derivative that takes the sine and cosine form|Solving a Second order derivative that takes the sine and cosine form]]
+- 4/3/23: 2nd Order Differential Equations
+	- [[Solving second order differential equations that give only one solution to the characteristic equation|Solving second order differential equations that give only one solution to the characteristic equation]]
+	- **Couldn't quite catch the general form of non-homogeneous ones!** (it was off the side of the board)
+- 4/6/23: Finishing up differential equations
+	- **COME BACK TO THIS** -- It's the end of the 4/3 and start of the 4/6 lecture that are about non-homogeneous second order differential equations-- I'm skimming past notes on them because I can't get good ones rn.
+	- [[Intro to Vector Calculus|Intro to Vector Calculus]]
+		- [[Properties of Vectors in Calculus|Properties of Vectors in Calculus]]
+- 4/10/23: More Vector Calculus
+	- [[Speed in Calculus|Speed in Calculus]]
+	- [[Change in Radius from Origin in Calculus|Change in Radius from Origin in Calculus]]
+	- [[Reparameterization|Reparameterization]]
+	- [[Vector Arc Length with Calculus|Vector Arc Length with Calculus]]
+	- [[TNB Frame|TNB Frame]]
 
 ### Course Rundown:
 - [[The Integral|Integrals]] Part 2
 - [[Series|Series]] Part 2
 - [[Differential Equations|Differential Equations]] Part 2
 - Vector Calculus
+
+### Final Review:
+- [[Methods of Partial Fraction Decomposition|Methods of Partial Fraction Decomposition]]
+- [[Parametric Equations and Calculus|Parametric Equations and Calculus]]
+- [[Informal method for solving linear differential equations|Informal method for solving linear differential equations]]
+- [[Homogeneous differential equations|Homogeneous differential equations]]
+- [[Integrating Factor|Integrating Factor]]
 
 ### Class Info:
 * Materials:
